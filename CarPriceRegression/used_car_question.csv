@@ -1,0 +1,2123 @@
+id,Price,Year,Mileage,City,State,Make,Model
+850001,,2007,186177,Columbus, OH,Honda,Accord
+850002,,2015,12134,Plano, TX,Mercedes-Benz,E-ClassE350
+850003,,2016,27930,West Park, FL,Nissan,SentraSL
+850004,,2014,32349,Corvallis, OR,Mazda,Mazda3s
+850005,,2012,53586,Dartmouth, MA,Nissan,RogueAWD
+850006,,2014,35929,Roswell, GA,Honda,Civic
+850007,,2016,26910,Cathedral City, CA,Scion,tCAutomatic
+850008,,2011,117099,North Hollywood, CA,Mercedes-Benz,C-Class4dr
+850009,,2007,161951,Caldwell, ID,Dodge,Ram
+850010,,2014,32126,San Diego, CA,Land,Rover
+850011,,2013,93447,Milledgeville, GA,Ford,ExplorerBase
+850012,,2014,25670,Philadelphia, PA,Chevrolet,Cruze1LT
+850013,,2014,9372,Clive, IA,Jeep,PatriotHigh
+850014,,2009,114133,Richardson, TX,Toyota,Venza4dr
+850015,,2013,63637,Stuart, FL,Toyota,Avalon
+850016,,2016,14285,Highland Park, IL,Porsche,CayenneS
+850017,,2014,78729,Houston, TX,Ford,ExplorerXLT
+850018,,2017,11817,Palmyra, NJ,Cadillac,XTSFWD
+850019,,2017,71,Norco, CA,Dodge,DurangoSXT
+850020,,2013,30398,Miami Gardens, FL,Volkswagen,Jetta
+850021,,2010,119159,Albuquerque, NM,Lexus,RX
+850022,,2008,179654,Burbank, IL,Lincoln,MKXAWD
+850023,,2016,5638,Waukesha, WI,Subaru,CrosstrekPremium
+850024,,2013,118293,Stonewall, LA,Ford,Expedition
+850025,,2014,22827,Hurricane, WV,Subaru,Forester2.5i
+850026,,2017,7234,Branford, CT,Subaru,Legacy2.5i
+850027,,2015,18864,Hickory Hills, IL,Volkswagen,Passat4dr
+850028,,2014,64686,Pensacola, FL,Mazda,Mazda3s
+850029,,2017,2663,Winnsboro, LA,Nissan,RogueS
+850030,,2013,91765,Independence, MO,Ford,F-150SuperCrew
+850031,,2016,16559,Carrollton, TX,Ford,FusionSE
+850032,,2013,50924,Philadelphia, PA,Chevrolet,Silverado
+850033,,2014,44327,Scottsdale, AZ,Mercedes-Benz,M-ClassML350
+850034,,2016,41533,Houston, TX,Volkswagen,Jetta
+850035,,2016,31226,Mountain View, CA,Nissan,VersaSV
+850036,,2015,40404,Beavercreek, OH,Ford,F-1504WD
+850037,,2011,38315,Davie, FL,Honda,CR-V2WD
+850038,,2015,42784,El Paso, TX,Dodge,DartSXT
+850039,,2014,7973,Feasterville, PA,Audi,A42.0T
+850040,,2008,131637,Highland Springs, VA,Ford,Focus2dr
+850041,,2013,75456,O'Fallon, IL,Ford,EscapeSE
+850042,,2009,90521,Elizabeth, NJ,Lexus,RX
+850043,,2015,39376,Mount Juliet, TN,Audi,A8
+850044,,2008,107978,Roseville, CA,Jaguar,XJ4dr
+850045,,2013,56139,Seekonk, MA,Toyota,RAV44X4
+850046,,2016,23948,Miami, FL,Hyundai,AzeraLimited
+850047,,2016,23031,Inver Grove Heights, MN,Ford,FocusHatchback
+850048,,2011,48796,Marietta, GA,Jeep,Grand
+850049,,2017,7,Tulsa, OK,Nissan,Altima2.5
+850050,,2016,39918,Lansing, MI,Dodge,JourneyFWD
+850051,,2014,44908,St. James, NY,Ram,"1500Laramie,"
+850052,,2010,76241,Owasso, OK,Ford,EscapeFWD
+850053,,1997,107976,Pinellas Park, FL,Chevrolet,S-102WD
+850054,,2007,135658,Frisco, TX,Lexus,RX
+850055,,2014,31914,Bel Air, MD,Nissan,QuestSV
+850056,,2007,87476,Sacramento, CA,Ford,Explorer2WD
+850057,,2016,12364,Houston, TX,Honda,CR-VSE
+850058,,2015,21515,Waukesha, WI,Ford,MustangFastback
+850059,,2012,82724,Aurora, CO,Chevrolet,Express
+850060,,2011,48736,Pawleys Island, SC,Toyota,Tacoma4WD
+850061,,2010,76789,Norfolk, VA,Volkswagen,New
+850062,,2015,25801,Cathedral City, CA,Toyota,HighlanderFWD
+850063,,2012,95189,Springfield, MO,Chevrolet,Silverado
+850064,,2016,22960,Antioch, IL,Volkswagen,Tiguan4MOTION
+850065,,2015,26173,Highlands Ranch, CO,Chevrolet,Silverado
+850066,,2016,17792,South Jordan, UT,Ford,MustangFastback
+850067,,2014,23431,Phoenix, AZ,Lexus,IS
+850068,,2015,42872,Fredericksburg, VA,Hyundai,Santa
+850069,,2014,18913,Roswell, GA,Lexus,LS
+850070,,2013,29290,Bellevue, WA,BMW,5
+850071,,2017,9995,Sterling, IL,Chevrolet,CruzeSedan
+850072,,2017,3605,McKinney, TX,GMC,TerrainAWD
+850073,,2016,28035,Franklin, WI,Dodge,Grand
+850074,,2015,35452,Bastrop, TX,GMC,Yukon2WD
+850075,,2013,92202,Garland, TX,Ram,"1500SLT,"
+850076,,2015,29700,Pharr, TX,Toyota,Tacoma2WD
+850077,,2012,90487,Suitland, MD,Toyota,Camry4dr
+850078,,2014,27147,Las Cruces, NM,Toyota,HighlanderAWD
+850079,,2011,76169,Pittsburgh, PA,Subaru,Forester4dr
+850080,,2015,39838,SEATTLE, WA,Mercedes-Benz,GL-ClassGL350
+850081,,2014,39884,Houston, TX,Cadillac,SRXPerformance
+850082,,2010,102861,Katy, TX,Cadillac,SRXFWD
+850083,,2014,14097,Mount Vernon, WA,Audi,A42.0T
+850084,,2014,50109,San Marcos, TX,Honda,Accord
+850085,,2008,116647,West Covina, CA,Lincoln,Mark
+850086,,2012,41262,Orlando, FL,Jeep,Grand
+850087,,2005,94642,Beaverton, OR,Toyota,Sienna5dr
+850088,,2017,23112,Fort Worth, TX,Kia,ForteLX
+850089,,2013,34548,Miami, FL,Toyota,CorollaS
+850090,,2013,25178,Janesville, WI,Scion,FR-SManual
+850091,,2012,68757,Whippany, NJ,Lexus,LS
+850092,,2014,14575,Miami, FL,Buick,EncoreLeather
+850093,,2012,37863,Marietta, GA,BMW,7
+850094,,2017,7332,Fort Worth, TX,Audi,A4ultra
+850095,,2016,46831,Monmouth, IL,Chrysler,Town
+850096,,2013,71234,Jersey City, NJ,Chevrolet,Malibu1LTZ
+850097,,2010,107098,Houston, TX,Dodge,Ram
+850098,,2016,25558,Norman, OK,Volkswagen,Jetta
+850099,,2016,21226,CHESTER, VA,Nissan,Altima2.5
+850100,,2013,20193,Sherwood, AR,Jeep,WranglerSport
+850101,,2015,23345,Greenville, NC,Nissan,Altima2.5
+850102,,2016,34035,Mcminnville, OR,Ford,EdgeTitanium
+850103,,2015,33377,Denver, CO,Chevrolet,EquinoxAWD
+850104,,2007,87558,Reno, NV,Nissan,350Z2dr
+850105,,2015,17199,Lewisville, TX,Jeep,Wrangler
+850106,,2014,43111,Hollywood, FL,Mercedes-Benz,C-ClassC250
+850107,,2014,31420,Houston, TX,INFINITI,QX50AWD
+850108,,2013,68274,North Hollywood, CA,Scion,FR-S2dr
+850109,,2015,49611,Silver Spring, MD,Nissan,RogueSV
+850110,,2014,32012,Downers Grove, IL,Ford,F-1504WD
+850111,,2016,2075,West Palm Beach, FL,Jaguar,XJR-Sport
+850112,,2015,33433,Burton, OH,Chevrolet,Silverado
+850113,,2008,183160,Fort Myers, FL,Toyota,4RunnerRWD
+850114,,2005,138907,Claremore, OK,Dodge,Ram
+850115,,2009,96801,DAVIE, FL,Nissan,Altima4dr
+850116,,2015,19588,Stamford, CT,Subaru,Forester
+850117,,2017,31567,YUKON, OK,Ford,FusionSE
+850118,,2010,85135,Manheim, PA,Volkswagen,Jetta
+850119,,2017,101,Humble, TX,Nissan,Armada2WD
+850120,,2011,88057,Smithfield, RI,Buick,EnclaveAWD
+850121,,2015,18704,Anchorage, AK,Kia,SedonaLX
+850122,,2009,108722,Chantilly, VA,Volkswagen,CC4dr
+850123,,2014,50064,Chesapeake, VA,Chevrolet,Malibu1LT
+850124,,2016,26652,Rockwall, TX,Honda,CR-VEX
+850125,,2016,55787,Lexington, KY,Hyundai,Elantra
+850126,,2015,42057,South Gate, CA,Volkswagen,Passat4dr
+850127,,2013,51194,Indianapolis, IN,Lincoln,MKXMKX
+850128,,2015,28537,Tallmadge, OH,Honda,Civic
+850129,,2011,86192,Tampa, FL,Subaru,Impreza
+850130,,2016,45606,Lithia Springs, GA,Hyundai,TucsonFWD
+850131,,2014,69259,Elba, AL,Chevrolet,EquinoxFWD
+850132,,2009,153939,Charlotte, NC,Toyota,FJ
+850133,,2017,4789,Boerne, TX,Mercedes-Benz,GLEGLE
+850134,,2009,104784,Pensacola, FL,Mercedes-Benz,C-Class4dr
+850135,,2007,162095,Portsmouth, VA,Toyota,Camry4dr
+850136,,2011,101664,Charleston, SC,MINI,Cooper
+850137,,2017,389,Carrollton, TX,Mercedes-Benz,GLSGLS
+850138,,2015,25715,New Castle, DE,Chevrolet,Silverado
+850139,,2014,46087,Gladstone, OR,Hyundai,SonataGLS
+850140,,2015,13074,Conway, SC,Chrysler,200Limited
+850141,,2015,42063,Katy, TX,Ford,FusionSE
+850142,,2015,20138,Miami Lakes, FL,FIAT,500Abarth
+850143,,2016,16914,Plainfield, IL,Chevrolet,EquinoxFWD
+850144,,2017,36850,Tulsa, OK,Buick,EnclaveLeather
+850145,,2014,47310,Houston, TX,Dodge,ChallengerR/T
+850146,,2014,30486,Torrance, CA,BMW,3
+850147,,2014,32573,Duluth, GA,BMW,5
+850148,,2011,87712,Orlando, FL,Nissan,RogueAWD
+850149,,2016,16692,Nashua, NH,Jeep,RenegadeLimited
+850150,,2012,84872,Sacramento, CA,Acura,TSXAutomatic
+850151,,2014,29384,Sedalia, MO,Toyota,AvalonXLE
+850152,,2014,28042,Sullivan, IN,Chevrolet,Malibu1LT
+850153,,2015,32612,Katy, TX,Ford,FusionSE
+850154,,2006,102647,Carrollton, TX,Lexus,ES
+850155,,2010,78514,National City, CA,BMW,6
+850156,,2012,62754,Capitol Heights, MD,Volkswagen,Beetle2dr
+850157,,2011,89821,Lancaster, MA,Kia,Sorento2WD
+850158,,2015,57533,Englewood, CO,Kia,SorentoLX
+850159,,2011,31039,Fruitland Park, FL,Honda,Odyssey5dr
+850160,,2017,9890,Arlington, VA,Porsche,MacanAWD
+850161,,2012,60904,Crystal Lake, IL,Jeep,Grand
+850162,,2014,34097,Sherwood, AR,Ford,FusionSE
+850163,,2014,24469,Marshall, TX,Dodge,DartSXT
+850164,,2008,62015,Pasadena, CA,Acura,TSX4dr
+850165,,2017,29838,Conroe, TX,Ford,EscapeFWD
+850166,,2014,30032,Rockwall, TX,Ford,FiestaSedan
+850167,,2016,35511,Golden, CO,Jeep,CompassSport
+850168,,2012,139178,Daphne, AL,Ford,F-1502WD
+850169,,2017,12065,Irvine, CA,Kia,Sportage2WD
+850170,,2014,32200,Madison, TN,Chevrolet,Corvette
+850171,,2012,70428,Matteson, IL,Lincoln,MKX4dr
+850172,,2010,116476,Crossville, TN,Buick,EnclaveAWD
+850173,,2016,16621,Keyport, NJ,GMC,Sierra
+850174,,2016,3814,Mendon, MA,Ford,F-1504WD
+850175,,2010,87597,North Aurora, IL,Toyota,Camry4dr
+850176,,2013,33206,Bradenton, FL,Kia,OptimaLX
+850177,,2017,22427,San Mateo, CA,GMC,TerrainFWD
+850178,,2007,129798,Taylorsville, IN,Mazda,CX-7AWD
+850179,,2015,23800,Carrollton, TX,Land,Rover
+850180,,2016,33089,Renton, WA,Ford,Explorer4WD
+850181,,2017,18802,Olive Branch, MS,Chevrolet,EquinoxAWD
+850182,,2009,117925,Cincinnati, OH,Kia,Sorento4WD
+850183,,2016,38817,Florence, SC,Nissan,SentraSV
+850184,,2015,26292,Houston, TX,Honda,Accord
+850185,,2007,178174,Easton, PA,Lexus,ES
+850186,,2007,84560,St. Petersburg, FL,INFINITI,M354dr
+850187,,2015,23098,Peoria, AZ,Kia,ForteLX
+850188,,2013,48679,Kansas City, KS,BMW,X5xDrive35i
+850189,,2012,100251,Tucson, AZ,Nissan,Altima4dr
+850190,,2018,334,Leesburg, FL,Hyundai,Santa
+850191,,2014,39000,Woodbridge, VA,Toyota,RAV44X4
+850192,,2007,86231,Waukegan, IL,Chevrolet,Cobalt2dr
+850193,,2006,65740,Fullerton, CA,Chevrolet,Silverado
+850194,,2008,108260,Jacksonville, FL,Saturn,OutlookFWD
+850195,,2016,10612,Lake Park, FL,smart,fortwoPure
+850196,,2013,62201,Cornelius, NC,Ford,FusionHybrid
+850197,,2016,14385,Chesapeake, VA,INFINITI,Q50AWD
+850198,,2013,68963,Chesapeake, VA,Toyota,Tundra
+850199,,2017,13676,Gainesville, GA,Ram,3500Big
+850200,,2014,34373,Mooresville, IN,Lincoln,MKXAWD
+850201,,2015,19000,Smyrna, DE,Hyundai,Sonata4dr
+850202,,2016,40531,Inver Grove Heights, MN,Ford,Explorer4WD
+850203,,2014,22691,Bridgeview, IL,Chevrolet,EquinoxFWD
+850204,,2015,34561,Albuquerque, NM,BMW,3
+850205,,2015,64547,Chesterfield, MO,Ford,F-1504WD
+850206,,2013,70603,Athens, OH,Toyota,Tundra
+850207,,2012,85142,Mooresville, NC,GMC,Sierra
+850208,,2015,23133,Mount Prospect, IL,Volkswagen,Jetta
+850209,,2014,61308,Elgin, IL,GMC,AcadiaFWD
+850210,,2014,41301,Irving, TX,Jeep,Grand
+850211,,2012,116704,Columbus, OH,Chevrolet,EquinoxAWD
+850212,,2017,5,State College, PA,Nissan,Altima2.5
+850213,,2017,19657,Maitland, FL,Buick,EnclaveLeather
+850214,,2011,85340,Houston, TX,GMC,Yukon2WD
+850215,,2005,147416,Blaine, MN,GMC,Yukon4dr
+850216,,2016,41362,Cherry Hill, NJ,Chrysler,300300C
+850217,,2017,30170,Jacksonville, FL,Hyundai,Elantra4dr
+850218,,2015,27627,West Palm Beach, FL,Nissan,Murano2WD
+850219,,2010,100670,Tacoma, WA,Chrysler,Town
+850220,,2016,21138,Miami Gardens, FL,Honda,Accord
+850221,,2014,49936,Melbourne, FL,Mazda,Mazda2Sport
+850222,,2015,41099,Lima, OH,Buick,EnclaveLeather
+850223,,2014,38644,Clarksville, MD,Dodge,DurangoLimited
+850224,,2015,39158,Ferriday, LA,Ram,"1500SLT,"
+850225,,2017,3125,Delta, UT,Chevrolet,Silverado
+850226,,2015,44693,Texas City, TX,Ford,ExplorerXLT
+850227,,2017,3497,Saugus, MA,Ford,Explorer4WD
+850228,,2014,42760,Dover, NH,Toyota,RAV44X4
+850229,,2013,32104,Virginia Beach, VA,Toyota,Highlander4X4
+850230,,2014,48239,Carrollton, TX,BMW,X3xDrive28i
+850231,,2014,113745,Lexington, NC,Toyota,TacomaDouble
+850232,,2014,46177,Mundelein, IL,Ford,ExplorerXLT
+850233,,2016,5967,Auburn, WA,Mitsubishi,i-MiEVES
+850234,,2016,22606,Santa Fe, NM,Nissan,RogueSV
+850235,,2015,31288,Nashua, NH,Ford,Transit
+850236,,2007,112530,Zephyrhills, FL,Chevrolet,Silverado
+850237,,2017,20883,Houston, TX,Cadillac,Escalade4WD
+850238,,2012,80929,Savannah, GA,Ford,F-1504WD
+850239,,2005,102905,Plano, TX,Toyota,Tundra2WD
+850240,,2011,107430,Raleigh, NC,Audi,A44dr
+850241,,2006,36944,Marietta, GA,Maserati,GranSport2dr
+850242,,2003,159977,Mobile, AL,Ford,F-1504WD
+850243,,2010,70040,Aurora, MO,Chevrolet,Silverado
+850244,,2015,34542,Independence, MO,Chevrolet,MalibuLS
+850245,,2016,35657,Grimes, IA,Toyota,AvalonXLE
+850246,,2013,86069,Greenville, WI,Volkswagen,Passat4dr
+850247,,2013,78071,Sarasota, FL,Scion,FR-SAutomatic
+850248,,2003,126803,Fairfax, VA,Toyota,Sequoia4dr
+850249,,2017,33584,Philadelphia, PA,Cadillac,Escalade
+850250,,2013,25130,Portland, OR,Nissan,LEAFSL
+850251,,2015,33484,Tacoma, WA,Kia,OptimaEX
+850252,,2015,14620,Waukegan, IL,Toyota,CorollaS
+850253,,2017,17637,Houston, TX,Ford,FusionHybrid
+850254,,2014,22865,Sterling, VA,Volkswagen,Passat4dr
+850255,,2006,161785,Buford, GA,Toyota,Tacoma2WD
+850256,,2013,71462,New Bern, NC,Toyota,RAV44X2
+850257,,2012,54036,Martinsburg, WV,Chrysler,3004dr
+850258,,2015,30096,Stockton, CA,Kia,OptimaSX
+850259,,2015,17463,Scottsdale, AZ,Mercedes-Benz,G-ClassG550
+850260,,2016,38451,Columbia, SC,Dodge,Grand
+850261,,2017,4448,San Marcos, TX,Toyota,Tacoma4WD
+850262,,2016,21637,Columbia, IL,Chevrolet,Tahoe4WD
+850263,,2014,24705,North Olmsted, OH,Subaru,XV
+850264,,2017,17087,Grimes, IA,Nissan,RogueSV
+850265,,2010,75232,Kansas City, KS,Nissan,MuranoAWD
+850266,,2007,72000,Fishers, IN,Jaguar,XK2dr
+850267,,2016,26432,Columbia, Md,Land,Rover
+850268,,2014,89100,Richardson, TX,Hyundai,VelosterTurbo
+850269,,2014,53077,Little Rock, AR,Lexus,RX
+850270,,2017,17256,Victorville, CA,Ford,MustangEcoBoost
+850271,,2016,14550,Tomball, TX,Chevrolet,Silverado
+850272,,2011,78289,Raleigh, NC,Jeep,CompassFWD
+850273,,2015,28519,Merrillville, IN,Toyota,RAV44X2
+850274,,2013,108368,St. Louis, MO,Ford,FusionSE
+850275,,2014,38701,Tinley Park, IL,Audi,Q52.0T
+850276,,2014,43276,Houston, TX,Cadillac,CTS
+850277,,2014,46765,Pelham, AL,BMW,X1sDrive28i
+850278,,2015,37896,Houston, TX,GMC,Sierra
+850279,,2014,35279,Wappingers Falls, NY,Nissan,RogueSV
+850280,,2017,5041,Frederick, MD,Mitsubishi,Mirage
+850281,,2008,71175,El Paso, TX,Porsche,CayenneAWD
+850282,,2016,5276,Manassas, VA,Chrysler,200S
+850283,,2008,169807,Lexington, TN,Toyota,Tacoma4WD
+850284,,2006,219377,Paris, KY,Volkswagen,Jetta
+850285,,2010,99042,Lemont, IL,Mercedes-Benz,GLK-Class4MATIC
+850286,,2006,80335,Virginia Beach, VA,Audi,A44dr
+850287,,2015,9711,Norwood, MA,Toyota,RAV44X4
+850288,,2011,86706,Glendale, WI,Ford,Edge4dr
+850289,,2016,40886,Burleson, TX,Volkswagen,Beetle
+850290,,2015,19886,Denver, CO,Jeep,Grand
+850291,,2013,52585,Augusta, GA,Toyota,Highlander4X2
+850292,,2016,37322,Smyrna, GA,Cadillac,ATS
+850293,,2014,39080,Bridgewater, NJ,BMW,3
+850294,,2008,97000,Huntsville, AL,Mercedes-Benz,M-Class4WD
+850295,,2013,68387,Chelsea, MI,Chevrolet,Silverado
+850296,,2016,3404,Sarasota, FL,Honda,Civic
+850297,,2015,59118,Topeka, KS,Chevrolet,Tahoe4WD
+850298,,2016,14491,Fort Worth, TX,Chevrolet,Silverado
+850299,,2017,10836,Davie, FL,Ram,ProMaster
+850300,,2015,73025,Fairlawn, NJ,Chrysler,Town
+850301,,2015,46871,Sherman Oaks, CA,Kia,Rio5-door
+850302,,2014,22730,Southern Pines, NC,Nissan,Versa
+850303,,2017,27008,Idaho Falls, ID,Dodge,JourneySXT
+850304,,2017,17487,High Point, NC,Jeep,CompassLatitude
+850305,,2017,51,Hillsboro, NH,Ram,ProMaster
+850306,,2008,76058,Phoenix, AZ,Audi,TT2dr
+850307,,2015,46317,Tinley Park, IL,FIAT,500Abarth
+850308,,2016,26112,Orlando, FL,Acura,MDXFWD
+850309,,2015,41199,Louisville, KY,GMC,Yukon
+850310,,2017,15299,New York, NY,Hyundai,Elantra
+850311,,2013,77832,Kansas City, MO,Ford,F-150SuperCrew
+850312,,2016,47852,Woodbridge, VA,Dodge,Grand
+850313,,2011,63106,Lodi, NJ,Chevrolet,Camaro2dr
+850314,,2009,120403,Raleigh, NC,Subaru,Forester4dr
+850315,,2011,100478,Sanford, NC,Toyota,Avalon4dr
+850316,,2005,196400,Conway, SC,Honda,PilotEX-L
+850317,,2007,156767,Pasadena, TX,Ford,Focus4dr
+850318,,2004,152564,Oklahoma City, OK,Hyundai,Accent4dr
+850319,,2015,8714,Middlesboro, KY,Ford,F-1504WD
+850320,,2016,29957,Oklahoma City, OK,Ford,ExplorerFWD
+850321,,2013,88021,Tyler, TX,Dodge,DartSXT
+850322,,2017,25883,Victorville, CA,GMC,TerrainFWD
+850323,,2010,110854,North Little Rock, AR,Acura,RL4dr
+850324,,2016,42510,Cape Girardeau, MO,Jeep,PatriotLatitude
+850325,,2013,44091,Orem, UT,Nissan,FrontierCrew
+850326,,2017,20655,Ridgeland, MS,Chevrolet,EquinoxFWD
+850327,,2004,193308,Sterling, IL,Ford,F-1502WD
+850328,,2016,32490,Selma, TX,GMC,Yukon2WD
+850329,,2015,74292,Sherman, TX,Ford,F-1504WD
+850330,,2012,51941,Falls Church, VA,Honda,OdysseyEX-L
+850331,,2010,136695,Dumfries, VA,Toyota,Corolla4dr
+850332,,2016,36585,Omaha, NE,Ford,Transit
+850333,,2014,35256,Temecula, CA,Hyundai,SonataSE
+850334,,2015,5132,Fairbanks, AK,Chevrolet,CamaroCoupe
+850335,,2014,36019,San Diego, CA,Volkswagen,Jetta
+850336,,2014,27523,Lima, OH,Kia,Forte
+850337,,2016,50413,Nelliston, NY,Hyundai,Sonata2.4L
+850338,,2011,65908,Delray Beach, FL,Chrysler,2004dr
+850339,,2014,27725,Marlow Heights, MD,BMW,X1xDrive28i
+850340,,2015,28109,Round Rock, TX,Nissan,LEAFSV
+850341,,2013,56305,Costa Mesa, CA,Toyota,4Runner4x2
+850342,,2015,29676,Courtland, MN,Buick,VeranoLeather
+850343,,2011,110630,Nashville, TN,BMW,X3AWD
+850344,,2015,23647,Bedford, TX,Chrysler,300Limited
+850345,,2015,17479,Budd Lake, NJ,Cadillac,SRXLuxury
+850346,,2005,93815,Jacksonville, FL,Lexus,ES
+850347,,2006,116027,Oceanside, CA,Scion,tC3dr
+850348,,2005,102161,N. Bellevue, NE,Ford,Taurus4dr
+850349,,2014,22324,Richardson, TX,Nissan,Maxima3.5
+850350,,2015,7363,Dawsonville, GA,Chevrolet,CamaroCoupe
+850351,,2011,94121,Denver, CO,Hyundai,Santa
+850352,,2007,75490,Chicago, IL,Dodge,Charger4dr
+850353,,2006,148194,Louisville, TN,Toyota,Tacoma2WD
+850354,,2017,18256,Mcminnville, OR,Ford,Escape4WD
+850355,,2016,42633,Greenvale, NY,Dodge,Grand
+850356,,2005,130301,Lackawanna, NY,Chevrolet,Colorado4WD
+850357,,2014,26497,Freehold, NJ,Buick,VeranoLeather
+850358,,2011,36993,Athens, GA,BMW,7
+850359,,2013,75645,Naugatuck, CT,GMC,Yukon
+850360,,2017,11310,Golden Valley, MN,Volvo,S60
+850361,,2012,91462,Oxnard, CA,Ford,EscapeFWD
+850362,,2013,81092,Salem, NH,GMC,AcadiaAWD
+850363,,2015,50256,Topeka, KS,GMC,AcadiaAWD
+850364,,2015,39221,Santa Ana, CA,Nissan,Altima3.5
+850365,,2015,10872,Huntville, AL,Ford,MustangConvertible
+850366,,2017,3888,Greenfield, WI,Mazda,Mazda6Grand
+850367,,2016,22629,Ontario, OR,Toyota,RAV4AWD
+850368,,2011,68690,Gladstone, OR,BMW,X5AWD
+850369,,2013,62579,Norwalk, CA,Toyota,Avalon
+850370,,2017,26276,Raleigh, NC,Chevrolet,TahoeLT
+850371,,2014,30261,Charlotte, NC,Nissan,SentraS
+850372,,2017,2571,Jamaica, NY,Honda,CR-VLX
+850373,,2015,22801,Colorado Springs, CO,Kia,OptimaSX
+850374,,2017,35887,Victorville, CA,Buick,EnclaveLeather
+850375,,2015,26456,Greenfield, WI,Hyundai,Elantra4dr
+850376,,2011,21448,Buena Vista, GA,Ford,Edge4dr
+850377,,2007,86175,NORWOOD, MA,Toyota,Corolla4dr
+850378,,2017,19484,Charlotte, NC,Ford,EscapeFWD
+850379,,2017,5519,Wallingford, CT,Volvo,XC60T5
+850380,,2015,39548,Vacaville, CA,Nissan,SentraS
+850381,,2017,2624,Midland, TX,Toyota,Tacoma2WD
+850382,,2014,61407,Buckhannon, WV,Ford,EscapeSE
+850383,,2015,39434,San Antonio, TX,Mitsubishi,Outlander2WD
+850384,,2014,57976,Charlotte, NC,Jeep,Grand
+850385,,2012,59288,Tampa, FL,Ford,Fusion4dr
+850386,,2014,79978,Concord, CA,Kia,SorentoLX
+850387,,2011,53229,Puyallup, WA,Ram,25004WD
+850388,,2010,82571,St. Petersburg, FL,Dodge,Grand
+850389,,2017,6893,Lexington, KY,Nissan,RogueS
+850390,,2015,21353,Richmond Hill, NY,Toyota,CamryLE
+850391,,2016,14694,Kingsport, TN,Nissan,RogueSV
+850392,,2014,23962,Indian Trail, NC,Jeep,Grand
+850393,,2017,17666,Austin, TX,Audi,Q73.0T
+850394,,2015,57401,Jonesboro, GA,Chevrolet,EquinoxAWD
+850395,,2015,20107,San Antonio, TX,Ram,1500Big
+850396,,2002,165637,Levittown, PA,INFINITI,I35Luxury
+850397,,2015,35867,East Hanover, NJ,Volvo,XC60T6
+850398,,2015,70785,San Antonio, TX,Nissan,Altima2.5
+850399,,2007,119587,Houston, TX,Toyota,Prius5dr
+850400,,2008,100092,Dedham, MA,Subaru,Outback
+850401,,2016,46407,Countryside, IL,Hyundai,ElantraSE
+850402,,2013,39689,Langhorne, PA,Acura,RDXAWD
+850403,,2008,144492,Taylorsville, IN,Chrysler,Town
+850404,,2017,2210,Tallahassee, FL,Volkswagen,Golf
+850405,,2017,238,Hemet, CA,Chevrolet,Silverado
+850406,,2010,87889,Suitland, MD,Toyota,Highlander
+850407,,2016,5402,Farmington, NM,Hyundai,Sonata2.4L
+850408,,2016,59875,Philadelphia, PA,Ford,Expedition
+850409,,2013,39325,Costa Mesa, CA,BMW,7
+850410,,2016,38490,West Valley, UT,Kia,SportageAWD
+850411,,2014,61181,Indianapolis, IN,BMW,X3xDrive35i
+850412,,2014,35646,North Riverside, IL,Cadillac,CTS
+850413,,2016,10600,Warsaw, IN,Nissan,RogueSL
+850414,,2016,35825,Hollywood, FL,Toyota,CamryLE
+850415,,2017,11,Bonham, TX,Ram,3500Laramie
+850416,,2017,16713,Swedesboro, NJ,Ram,1500Laramie
+850417,,2015,30028,Nampa, ID,Honda,OdysseyTouring
+850418,,2015,38020,Lakeway, TX,Lexus,RX
+850419,,2016,50055,Knoxville, TN,Dodge,ChargerSXT
+850420,,2012,77692,Ardmore, PA,Volkswagen,Jetta
+850421,,2016,65854,Dallas, TX,Toyota,Tundra
+850422,,2012,11839,Worthington, OH,Chevrolet,CamaroCoupe
+850423,,2017,21120,Toledo, OH,Chevrolet,MalibuLT
+850424,,2013,39562,Scottsdale, AZ,Ford,EscapeS
+850425,,2015,26078,Mora, MN,Chevrolet,EquinoxAWD
+850426,,2014,23062,Madison, WI,Ford,FiestaHatchback
+850427,,2005,135993,Indianapolis, IN,GMC,Envoy4dr
+850428,,2017,17119,Maitland, FL,Toyota,CamrySE
+850429,,2016,55523,Winter Park, FL,Toyota,CorollaL
+850430,,2014,43796,Wilmington, NC,Hyundai,Genesis3.8
+850431,,2016,13048,Las Vegas, NV,GMC,Sierra
+850432,,2016,11966,Merrillville, IN,Cadillac,CT6
+850433,,2011,85695,Macon, GA,Chevrolet,EquinoxFWD
+850434,,2014,43619,Spring, TX,BMW,3
+850435,,2012,70285,Urbana, IL,Hyundai,Sonata4dr
+850436,,2014,34356,Raleigh, NC,FIAT,500eBATTERY
+850437,,2016,21079,Levittown, NY,Dodge,DurangoAWD
+850438,,2013,16472,Huntsville, AL,Hyundai,EquusSignature
+850439,,2016,16689,Charlotte, NC,Toyota,CamryXSE
+850440,,2014,144349,Sacramento, CA,Toyota,TacomaDouble
+850441,,2014,64658,Doral, FL,Ford,MustangCoupe
+850442,,2015,62840,Lee's Summit, MO,Ram,"2500SLT,"
+850443,,2014,49858,Perrysburg, OH,Chevrolet,Traverse1LT
+850444,,2017,33691,New York, NY,Chevrolet,Suburban2WD
+850445,,2012,62097,San Jose, CA,BMW,X3AWD
+850446,,2016,35430,Marshfield, MO,Kia,RioSedan
+850447,,2004,122652,Charlotte, NC,Jeep,Wrangler2dr
+850448,,2014,56010,MADISON, WI,Jeep,Grand
+850449,,2014,16787,Los Angeles, CA,FIAT,500LTrekking
+850450,,2011,79432,Grants Pass, OR,Mitsubishi,GalantFE
+850451,,2011,79932,SAUGERTIES, NY,Ford,F-1504WD
+850452,,2015,38114,Pueblo, CO,Cadillac,ATS
+850453,,2012,44448,Jacksonville, FL,Volkswagen,Passat4dr
+850454,,2012,89413,Killeen, TX,Honda,Civic
+850455,,2015,39700,Marietta, GA,Toyota,Prius
+850456,,2012,116554,Morristown, NJ,Jeep,Patriot4WD
+850457,,2016,25018,St. Louis, MO,Jeep,Grand
+850458,,2010,91278,Sarasota, FL,Honda,Accord
+850459,,2013,37930,Alpharetta, GA,Nissan,Maxima3.5
+850460,,2017,10144,American Fork, UT,Ford,FusionSE
+850461,,2013,53991,Bremerton, WA,Toyota,CorollaLE
+850462,,2014,33927,Lees Summit, MO,Kia,OptimaLimited
+850463,,2014,30302,Lisle, IL,Honda,CR-VLX
+850464,,2014,32517,Richmond, KY,Toyota,TacomaRegular
+850465,,2016,5860,Waukesha, WI,Honda,OdysseyEX-L
+850466,,2014,56807,Stockton, CA,GMC,Yukon
+850467,,2011,67014,Woodbridge, VA,Toyota,Sienna5dr
+850468,,2013,27511,Indianapolis, IN,Jaguar,XFXF
+850469,,2014,29150,Gilbert, AZ,Volkswagen,Jetta
+850470,,2016,2949,Waukesha, WI,Dodge,Grand
+850471,,2014,27753,Elgin, IL,Kia,SoulManual
+850472,,2016,43872,Louisville, KY,BMW,X4xDrive28i
+850473,,2017,9466,Richmond, VA,Chevrolet,CruzeSedan
+850474,,2012,79784,Denver, CO,Ford,Escape4WD
+850475,,2014,81066,Elk River, MN,Dodge,JourneyCrossroad
+850476,,2012,55329,Englewood, CO,Volkswagen,Touareg4dr
+850477,,2014,43346,Honolulu, HI,Nissan,Altima2.5
+850478,,2009,89886,Garland, TX,Audi,A44dr
+850479,,2013,70004,Killeen, TX,Buick,LaCrosseFWD
+850480,,2017,14269,Spring, TX,Toyota,Yaris
+850481,,2009,102170,Annapolis, MD,Nissan,RogueAWD
+850482,,2016,38855,Dublin, CA,Dodge,ChargerSXT
+850483,,2014,40897,Baxley, GA,Lincoln,MKX2WD
+850484,,2015,65229,Oakfield, NY,Dodge,JourneySXT
+850485,,2014,28378,Charlotte, NC,Mercedes-Benz,E-ClassE350
+850486,,2014,23911,Conyers, GA,Nissan,Altima2.5
+850487,,2014,42071,Nashville, TN,Jeep,CherokeeLimited
+850488,,2015,19554,Omaha, NE,Chevrolet,Silverado
+850489,,2015,22277,Surprise, AZ,Jeep,Wrangler
+850490,,2011,126708,Graham, NC,Ford,Fusion4dr
+850491,,2014,51468,Newport News, VA,Hyundai,ElantraSport
+850492,,2015,46971,Pueblo, CO,Chevrolet,Silverado
+850493,,2015,39519,Nashua, NH,Jeep,Grand
+850494,,2014,63375,Bellevue, WA,BMW,X5xDrive50i
+850495,,2015,28721,Rochester, NY,Jeep,CompassLatitude
+850496,,2017,8125,Teterboro, NJ,Audi,R8
+850497,,2014,24878,West Seneca, NY,Honda,Civic
+850498,,2016,11490,Burlington, NC,Dodge,ChargerSXT
+850499,,2008,106845,Bloomington, IN,Jeep,Grand
+850500,,2010,48887,Estero, FL,Honda,Accord
+850501,,2015,38410,Raynham, MA,Subaru,WRXManual
+850502,,2015,50962,Dixon, CA,Ford,F-1502WD
+850503,,2016,22072,Doral, FL,Lexus,IS
+850504,,2016,9885,La Follette, TN,Toyota,Tundra
+850505,,2010,72850,Willoughby, OH,Lexus,ES
+850506,,2014,27222,Canton, CT,Volkswagen,Jetta
+850507,,2016,34730,Elkhart, IN,Jeep,PatriotLatitude
+850508,,2012,91091,Saco, ME,Toyota,Corolla4dr
+850509,,2015,29067,Dallas, TX,GMC,TerrainFWD
+850510,,2009,110105,Sacramento, CA,Toyota,Corolla4dr
+850511,,2013,78033,Ottawa, IL,Ford,EdgeSport
+850512,,2017,7791,New Rochelle, NY,Mercedes-Benz,C-ClassC
+850513,,2015,54523,Mobile, AL,Chevrolet,Silverado
+850514,,2017,22152,East Haven, CT,Subaru,WRXManual
+850515,,2014,44506,Olathe, KS,Chevrolet,Impala2LTZ
+850516,,2015,36431,Great Neck, NY,Mercedes-Benz,M-ClassML350
+850517,,2014,77220,Layton, UT,Ford,FiestaHatchback
+850518,,2016,29807,Roselle, IL,Nissan,RogueSV
+850519,,2010,76076,Tampa, FL,Toyota,Yaris4dr
+850520,,2015,32793,Conway, SC,Ford,FocusSedan
+850521,,2014,21648,Bellingham, WA,Volkswagen,TiguanSE
+850522,,2015,24654,Avon, IN,Nissan,Altima2.5
+850523,,2015,28963,Lawrence, KS,Ford,Super
+850524,,2014,32530,Brattleboro, VT,Ram,"1500Tradesman,"
+850525,,2014,83233,Lithia Springs, GA,Toyota,4Runner4x2
+850526,,2014,42022,Santa Ana, CA,Ford,Fusion
+850527,,2014,27780,Warrenville, IL,Mercedes-Benz,M-ClassML350
+850528,,2014,42382,Killeen, TX,Nissan,Murano2WD
+850529,,2017,3144,Westmont, IL,BMW,M2Coupe
+850530,,2014,27258,Golden Valley, MN,Chevrolet,Traverse1LT
+850531,,2008,188284,Austin, TX,Chevrolet,Suburban2WD
+850532,,2014,36624,Alexandria, VA,Nissan,Altima2.5
+850533,,2017,12080,Jacksonville, FL,Chevrolet,MalibuLT
+850534,,2007,111656,Mesa, AZ,Hyundai,Sonata4dr
+850535,,2003,204249,San Antonio, TX,Chevrolet,Tahoe4dr
+850536,,2006,154794,Raleigh, NC,Honda,OdysseyEX-L
+850537,,2010,83457,Lexington, KY,Nissan,Altima4dr
+850538,,2016,43842,Olympia, WA,Ford,FusionTitanium
+850539,,2013,46780,Boise, ID,Ram,"1500Tradesman,"
+850540,,2016,35427,Parma, OH,Hyundai,ElantraSE
+850541,,2014,164056,Oak Ridge, TN,Nissan,TitanCrew
+850542,,2014,79992,Albermarle, NC,Chevrolet,Silverado
+850543,,2017,7007,Bethesda, MD,INFINITI,Q603.0t
+850544,,2015,44834,Taylorsville, IN,Toyota,HighlanderAWD
+850545,,2013,43098,Glen Cove, NY,Lexus,RX
+850546,,2014,37222,Summit, NJ,INFINITI,Q50AWD
+850547,,2010,73213,Greenville, TX,BMW,5
+850548,,2015,43525,Matteson, IL,Hyundai,SonataSE
+850549,,2014,34713,Los Angeles, CA,Mercedes-Benz,E-ClassE350
+850550,,2015,21808,Glendale, AZ,Hyundai,SonataLimited
+850551,,2013,47967,Des Plaines, IL,Mercedes-Benz,S-ClassS550
+850552,,2014,36316,North Plainfield, NJ,Honda,Civic
+850553,,2016,13788,Bellingham, WA,Ford,FocusSedan
+850554,,2014,44562,Lauderdale Lakes, FL,Mercedes-Benz,C-ClassC250
+850555,,2010,98253,Columbus, GA,Chevrolet,Tahoe4WD
+850556,,2016,28968,Nicholasville, KY,Hyundai,Elantra
+850557,,2015,13311,Salem, OR,Chevrolet,Malibu1LT
+850558,,2014,72023,Fort Walton Beach, FL,Chevrolet,Cruze1LT
+850559,,2008,150234,Madison, WI,Chrysler,Town
+850560,,2014,25440,Atlanta, GA,INFINITI,Q60
+850561,,2016,15707,Katy, TX,Ram,"3500Laramie,"
+850562,,2009,31238,Kennesaw, GA,Audi,Q5quattro
+850563,,2008,58965,Charlotte, NC,Lexus,RX
+850564,,2014,48032,Pelham, AL,Chevrolet,Tahoe2WD
+850565,,2012,74728,Anchorage, AK,Nissan,Altima4dr
+850566,,2015,41621,Augusta, GA,Ford,ExplorerXLT
+850567,,2017,26475,San Antonio, TX,Toyota,RAV4XLE
+850568,,2005,121727,Orlando, FL,Chevrolet,Monte
+850569,,2006,139965,Fresno, CA,Lincoln,Zephyr4dr
+850570,,2001,186168,Sanford, NC,Toyota,RAV44dr
+850571,,2016,34302,Tampa, FL,Nissan,RogueS
+850572,,2016,18882,Durham, NC,Ford,Explorer4WD
+850573,,2016,42027,Athens, GA,Chevrolet,CamaroCoupe
+850574,,2015,30185,Hadley, MA,Nissan,Altima2.5
+850575,,2014,29920,Westmont, IL,Audi,A63.0T
+850576,,2009,154014,Raleigh, NC,GMC,Yukon
+850577,,2016,38161,Louisville, KY,Jeep,Grand
+850578,,2014,32187,Plano, TX,BMW,5
+850579,,2014,46847,Ozark, AL,Ford,F-1504WD
+850580,,2014,49279,Kansas City, MO,Buick,EnclavePremium
+850581,,2015,60403,Hickory, NC,Chevrolet,Suburban2WD
+850582,,2013,58368,Ankeny, IA,Chevrolet,EquinoxFWD
+850583,,2014,31104,COLMAR, PA,Mazda,CX-5Grand
+850584,,2009,97594,Sacramento, CA,Lexus,GX
+850585,,2013,75096,Buford, GA,MINI,Cooper
+850586,,2018,9,San Jose, CA,Kia,SportageEX
+850587,,2015,78554,Whitefish, MT,Ford,F-1504WD
+850588,,2014,22509,Alachua, FL,Ford,FocusSedan
+850589,,2010,68020,Naugatuck, CT,Ford,Escape4WD
+850590,,2011,83981,Buda, TX,Toyota,Corolla4dr
+850591,,2014,31714,Kalamazoo, MI,Ford,FocusSedan
+850592,,2015,52966,Brandon, MS,Honda,CR-VLX
+850593,,2015,42524,Cayce, SC,Dodge,ChallengerR/T
+850594,,2015,38800,Gainesville, FL,Dodge,JourneySXT
+850595,,2016,42000,New York, NY,Chrysler,200Limited
+850596,,2017,11227,Orlando, FL,Ram,1500SLT
+850597,,2015,36544,Minnetonka, MN,Lexus,GX
+850598,,2010,61082,Hasbrouck Heights, NJ,Ford,Edge4dr
+850599,,2016,47021,Lawrence, KS,Jeep,CompassSport
+850600,,2016,24463,Bastrop, TX,Toyota,Tundra
+850601,,2011,104194,Burlington, WA,GMC,Sierra
+850602,,2014,34868,Lakewood, NJ,Honda,Civic
+850603,,2014,39676,Miami, FL,Toyota,HighlanderFWD
+850604,,2017,34347,Colorado Springs, CO,Hyundai,Elantra4dr
+850605,,2017,7,Pasadena, CA,Honda,Civic
+850606,,2013,61259,Hialeah, FL,Toyota,CorollaLE
+850607,,2014,79645,Greensboro, NC,Kia,OptimaLimited
+850608,,2014,25630,Houston, TX,Mercedes-Benz,E-ClassE350
+850609,,2014,29958,Chicago, IL,Mercedes-Benz,M-ClassML350
+850610,,2014,38640,Spring, TX,Honda,OdysseyTouring
+850611,,2017,6416,Scottsdale, AZ,Honda,RidgelineRTL
+850612,,2016,22552,San Antonio, TX,Ford,F-1502WD
+850613,,2014,31388,Jefferson City, MO,Lincoln,MKZFWD
+850614,,2017,34161,Victorville, CA,Chevrolet,TraverseFWD
+850615,,2016,40567,Spencer, IN,Ford,FocusSedan
+850616,,2017,19125,Toledo, OH,Chevrolet,MalibuLT
+850617,,2007,137650,Chesapeake, VA,Chevrolet,Tahoe4WD
+850618,,2013,40379,Richmond, VA,Lexus,RX
+850619,,2013,21925,Lynnfield, MA,Lincoln,MKZAWD
+850620,,2012,72214,Massapequa, NY,Land,Rover
+850621,,2015,45473,Buford, GA,Jeep,Wrangler
+850622,,2017,34182,Victorville, CA,Chevrolet,MalibuLT
+850623,,2017,4297,New York, NY,Buick,EnclaveLeather
+850624,,2017,40688,Omaha, NE,GMC,TerrainFWD
+850625,,2016,40584,Hanover, MA,Toyota,CamrySE
+850626,,2014,14280,Culpeper, VA,Toyota,CamryL
+850627,,2010,127128,Raleigh, NC,Chevrolet,Express
+850628,,2014,27944,South Gate, CA,Ford,FusionS
+850629,,2014,47831,Charlotte, NC,Toyota,CorollaS
+850630,,2013,93482,Merriam, KS,Ford,ExplorerLimited
+850631,,2015,24943,Dover, DE,Lexus,RX
+850632,,2015,45568,Pittsburg, CA,Honda,Accord
+850633,,2015,7149,Martinsburg, WV,Buick,EncorePremium
+850634,,2000,203974,Austin, TX,Lexus,GS
+850635,,2016,20384,Corpus Christi, TX,Toyota,Sequoia4X2
+850636,,2016,15210,Denton, TX,Chevrolet,EquinoxFWD
+850637,,2016,44536,Englewood, CO,Toyota,CamryLE
+850638,,2015,35491,San Antonio, TX,Ford,MustangFastback
+850639,,2013,62446,Wolcott, NY,Hyundai,AccentGLS
+850640,,2002,162416,Massillon, OH,Ford,Windstar
+850641,,2016,17961,Flemington, NJ,INFINITI,QX804WD
+850642,,2015,45016,Hopkins, MN,Honda,OdysseyEX-L
+850643,,2014,44181,Raleigh, NC,Mazda,Mazda3i
+850644,,2013,96294,Brookhaven, MS,Toyota,"VenzaLimited,"
+850645,,2017,21277,Suffolk, VA,Dodge,Grand
+850646,,2014,39658,North Dartmouth, MA,INFINITI,Q50AWD
+850647,,2017,15983,Riverside, CA,Nissan,PathfinderSV
+850648,,2012,21890,Scranton, PA,Honda,CR-VEX
+850649,,2016,4120,Santa Fe, NM,Hyundai,Sonata2.4L
+850650,,2016,26880,Orlando, FL,Dodge,Durango2WD
+850651,,2012,43740,Rochester, NY,Volkswagen,GTI4dr
+850652,,2013,36294,Woodland Hills, CA,Ford,FocusSedan
+850653,,2014,43652,Kenosha, WI,Ford,F-1504WD
+850654,,2013,18798,Glen Cove, NY,Lexus,RX
+850655,,2013,32625,Chantilly, VA,Ford,ExplorerXLT
+850656,,2015,48645,Addison, TX,Ford,ExplorerLimited
+850657,,2003,144694,Richmond, CA,Toyota,Avalon4dr
+850658,,2016,52963,Katy, TX,Nissan,MaximaS
+850659,,2013,48835,Hazelwood, MO,Hyundai,Santa
+850660,,2016,22658,Old Hickory, TN,Chevrolet,Silverado
+850661,,2003,125606,Matthews, NC,Jeep,Liberty4dr
+850662,,2013,40304,Brooklyn, NY,INFINITI,G37
+850663,,2013,70769,Mooresville, NC,Ford,MustangCoupe
+850664,,2015,40801,Lakewood, CO,Lexus,RX
+850665,,2012,49944,Chicago, IL,Mercedes-Benz,C-ClassC300
+850666,,2017,5553,Albuquerque, NM,Toyota,Tacoma4WD
+850667,,2015,49702,La Follette, TN,Ford,FocusSedan
+850668,,2016,14502,Corpus Christi, TX,Jeep,Wrangler
+850669,,2007,200770,Detroit, MI,Chevrolet,Silverado
+850670,,2011,134172,Heber Springs, AR,Chevrolet,Tahoe2WD
+850671,,2012,40189,Manassas, VA,Chevrolet,ColoradoRegular
+850672,,2013,59497,Bethlehem, PA,Nissan,370ZCoupe
+850673,,2007,25071,Lawrenceville, GA,Chrysler,3004dr
+850674,,2014,33911,Midland, TX,GMC,AcadiaAWD
+850675,,2015,18866,Brooksville, FL,Buick,EncoreConvenience
+850676,,2014,19917,Farmingdale, NY,Toyota,HighlanderAWD
+850677,,2016,7194,McLean, VA,Honda,CR-VEX
+850678,,2014,26465,Aurora, CO,Volkswagen,Jetta
+850679,,2014,33870,Nokomis, FL,FIAT,500Sport
+850680,,2015,67512,Thornton, CO,Mitsubishi,Outlander
+850681,,2016,11526,Ozark, AL,Dodge,ChallengerR/T
+850682,,2015,32522,Hillsdale, MI,Ford,F-1504WD
+850683,,2012,68782,Orland Park, IL,Volkswagen,Passat4dr
+850684,,2015,42010,Charlotte, NC,Mercedes-Benz,C-ClassC300
+850685,,2012,87526,Phoenix, AZ,Jeep,Liberty4WD
+850686,,2014,43373,Lumberton, NJ,Ford,FocusHatchback
+850687,,2015,70685,Lexington, KY,Chrysler,200S
+850688,,2013,66422,Peoria, AZ,Dodge,ChargerSXT
+850689,,2012,137250,ROCHESTER, NY,GMC,YukonAWD
+850690,,2017,1660,Saint Augustine, FL,Volkswagen,Jetta1.4T
+850691,,2017,24602,Summerville, SC,Jeep,CherokeeLimited
+850692,,2014,42437,El Paso, TX,Chevrolet,Silverado
+850693,,2014,19314,Portland, OR,Mercedes-Benz,E-ClassE350
+850694,,2014,34973,St. George, UT,Toyota,CamryLE
+850695,,2017,1959,Mesquite, TX,Nissan,FrontierKing
+850696,,2007,217114,Lexington, KY,Nissan,Frontier4WD
+850697,,2014,35687,Beavercreek, OH,Hyundai,SonataSE
+850698,,2004,207725,Longmont, CO,Toyota,Tundra4WD
+850699,,2015,18052,Dixon, CA,Ford,FiestaHatchback
+850700,,2016,42390,Marietta, GA,Dodge,ChargerRT
+850701,,2009,51049,Miami Gardens, FL,BMW,3
+850702,,2012,42730,La Grande, OR,Jeep,Wrangler
+850703,,2012,112991,North Miami, FL,GMC,TerrainAWD
+850704,,2012,44190,Spotsylvania, VA,Mitsubishi,EclipseAuto
+850705,,2011,93640,Tampa, FL,Jeep,Grand
+850706,,2016,19151,Charlotte, NC,Lexus,GX
+850707,,2015,20148,Winnsboro, LA,Ford,FocusHatchback
+850708,,2008,170000,Knoxville, TN,Ford,Escape4WD
+850709,,2015,40149,Atlanta, GA,Lincoln,MKCAWD
+850710,,2012,82440,Gilbert, AZ,Nissan,Sentra4dr
+850711,,2016,36533,Sacramento, CA,Ford,Transit
+850712,,2014,37418,Morrow, GA,Nissan,Altima2.5
+850713,,2017,10154,Orange Park, FL,Chevrolet,CamaroConvertible
+850714,,2015,40000,Durham, NC,Lexus,GX
+850715,,2017,12085,San Antonio, TX,Mercedes-Benz,GLAGLA
+850716,,2016,34405,Pueblo, CO,Dodge,DurangoAWD
+850717,,2013,62247,FOOTHILL RANCH, CA,BMW,3
+850718,,2017,321,Tifton, GA,Ford,FusionSE
+850719,,2014,34872,Carlsbad, CA,Lexus,CT
+850720,,2013,72573,Manassas, VA,Tesla,Model
+850721,,2011,97156,Jacksonville, FL,GMC,AcadiaFWD
+850722,,2011,57158,Harrisonburg, VA,Chevrolet,EquinoxAWD
+850723,,2011,85338,Ardmore, OK,Ford,F-1504WD
+850724,,2010,87529,Medina, MN,Lexus,ES
+850725,,2008,119102,Everett, WA,INFINITI,M354dr
+850726,,2015,17631,Merriam, KS,Chevrolet,MalibuLS
+850727,,2014,37053,Ogden, UT,Toyota,CamryL
+850728,,2015,20026,Enid, OK,Ford,F-1504WD
+850729,,2016,13263,Easton, PA,Toyota,CorollaS
+850730,,2008,86220,Dallas, TX,Mitsubishi,Outlander2WD
+850731,,2015,39292,Leesburg, FL,Jeep,Grand
+850732,,2017,19170,Gautier, MS,Ford,F-150XLT
+850733,,2016,18481,Fort Collins, CO,Subaru,CrosstrekPremium
+850734,,2005,150061,Phenix City, AL,Ford,Freestyle4dr
+850735,,2016,26425,Houston, TX,Hyundai,Sonata2.4L
+850736,,2014,15006,Woodbridge, VA,Lexus,ES
+850737,,2008,115121,Summerville, SC,Chevrolet,Silverado
+850738,,2014,58979,Dallas, TX,Mercedes-Benz,E-ClassE350
+850739,,2013,31349,Goldsboro, NC,Ford,EdgeSEL
+850740,,1997,103000,Grapevine, TX,Ford,Ranger2WD
+850741,,2014,31781,Loganville, GA,GMC,AcadiaFWD
+850742,,2015,21141,Omaha, NE,Hyundai,VelosterRE:FLEX
+850743,,2008,91849,Santa Monica, CA,Land,Rover
+850744,,2014,44127,Overland Park, KS,Acura,ILX5-Speed
+850745,,2007,101367,Addison, IL,Mazda,CX-9AWD
+850746,,2017,20613,Greenwood, IN,Kia,SedonaLX
+850747,,2017,22115,Saint Robert, MO,Ford,Escape4WD
+850748,,2017,9891,Middletown, RI,Chevrolet,TraverseAWD
+850749,,2015,32493,Winnsboro, LA,Nissan,Versa
+850750,,2013,12374,Huntsville, AL,Lexus,ES
+850751,,2014,43480,Rockland, MA,BMW,3
+850752,,2015,12304,Dayton, OH,Honda,CR-VTouring
+850753,,2011,127728,Irving, TX,Chevrolet,EquinoxFWD
+850754,,2017,107,Auburn, AL,Nissan,Armada2WD
+850755,,2017,20391,Falconer, NY,Ram,1500Laramie
+850756,,2016,35211,Elverson, PA,Nissan,Altima3.5
+850757,,2017,6824,Vancouver, WA,Toyota,CamrySE
+850758,,2016,9522,Louisville, KY,Toyota,HighlanderAWD
+850759,,2016,50841,Lakewood, WA,Ford,Explorer4WD
+850760,,2015,27447,Hoffman Estates, IL,Nissan,SentraSL
+850761,,2017,15956,Kirkland, WA,Mazda,Mazda3
+850762,,2016,47954,Rockford, IL,Hyundai,TucsonFWD
+850763,,2012,37919,Inglewood, CA,Mercedes-Benz,C-ClassC250
+850764,,2016,51114,Mora, MN,Buick,LaCrosseFWD
+850765,,2016,14483,Houston, TX,GMC,Savana
+850766,,2015,20904,Arundel, ME,Jeep,Grand
+850767,,2016,10158,Los Angeles, CA,GMC,Savana
+850768,,2016,40152,Renton, WA,Hyundai,VelosterManual
+850769,,2016,37218,Memphis, TN,Toyota,RAV4AWD
+850770,,2016,46722,Union City, GA,Nissan,Altima2.5
+850771,,2011,62049,Loveland, CO,Ford,F-1504WD
+850772,,2015,32901,Burleson, TX,Toyota,RAV44X2
+850773,,2002,141739,Smithfield, NC,Lexus,LS
+850774,,2016,47101,Victorville, CA,Nissan,VersaSV
+850775,,2011,81905,Northumberland, PA,Subaru,Outback4dr
+850776,,2011,54543,Kahului, HI,Hyundai,Elantra4dr
+850777,,2012,62756,Anchorage, AK,Ford,Fusion4dr
+850778,,2016,16252,Odessa, TX,Ford,FocusHatchback
+850779,,2014,29834,Pelham, AL,Lexus,ES
+850780,,2011,67821,Perrysburg, OH,Chevrolet,Cruze4dr
+850781,,2015,20520,Berwyn, PA,Volvo,XC60T6
+850782,,2017,7508,Lutherville Timonium, MD,Nissan,SentraS
+850783,,2013,67449,Manassas, VA,MINI,Cooper
+850784,,2013,103093,Bradenton, FL,Ford,Econoline
+850785,,2017,15003,Monroe, WA,Chevrolet,CruzeSedan
+850786,,2011,46841,Chesterton, IN,Nissan,Titan4WD
+850787,,2015,37140,Sherman, TX,GMC,Sierra
+850788,,2014,57145,Kennesaw, GA,Honda,Accord
+850789,,2015,31683,Colorado Springs, CO,Ford,Super
+850790,,2016,4690,Byron, GA,Jeep,WranglerSport
+850791,,2016,14006,San Diego, CA,Mitsubishi,OutlanderSEL
+850792,,2015,44842,Austin, TX,Toyota,Tundra
+850793,,2011,89004,Elmhurst, IL,GMC,AcadiaAWD
+850794,,2012,60100,Naugatuck, CT,INFINITI,G37
+850795,,2017,1489,Grapevine, TX,Toyota,Tundra
+850796,,2009,121825,Lindenhurst, IL,Cadillac,CTS4dr
+850797,,2014,32202,PLACERVILLE, CA,Toyota,CamryL
+850798,,2017,5231,Louisville, KY,Nissan,Altima2.5
+850799,,2009,114302,Aurora, IL,Nissan,cube5dr
+850800,,2015,35683,Warsaw, IN,Nissan,MuranoAWD
+850801,,2010,42975,Puyallup, WA,Lexus,IS
+850802,,2008,106219,Philadelphia, PA,Lexus,GS
+850803,,2010,115444,Pensacola, FL,Chevrolet,TraverseFWD
+850804,,2014,24643,Bellevue, NE,Honda,CR-VLX
+850805,,2016,36990,Lebanon, OH,Jeep,Grand
+850806,,2014,53906,Fairless Hills, PA,GMC,Yukon
+850807,,2015,140769,Midvale, UT,Ford,EscapeFWD
+850808,,2016,25383,Davie, FL,GMC,Yukon
+850809,,2017,3900,Hanover, MA,GMC,Sierra
+850810,,2015,41299,Portland, TX,Jeep,WranglerSport
+850811,,2015,59497,Columbus, MS,Nissan,Altima2.5
+850812,,2015,13933,Gower, MO,Ford,EdgeSEL
+850813,,2017,33058,Waldorf, MD,Buick,EnclaveLeather
+850814,,2016,47729,Marble Falls, TX,Dodge,Grand
+850815,,2013,136950,Tucson, AZ,Toyota,Highlander4X4
+850816,,2013,40977,Rochester, MN,Ford,F-150SuperCrew
+850817,,2015,35868,Brentwood, TN,Audi,Q52.0T
+850818,,2016,31558,Orlando, FL,Honda,OdysseyEX-L
+850819,,2014,64112,Merced, CA,Ford,Expedition
+850820,,2014,17000,Woodbridge, VA,BMW,i3Hatchback
+850821,,2016,41569,Olive Branch, MS,Chevrolet,Cruze
+850822,,2017,9338,Dearborn, MI,Volkswagen,GolfWolfsburg
+850823,,2015,22946,Farmington Hills, MI,Chevrolet,Malibu2LT
+850824,,2016,11714,Tyler, TX,Chevrolet,Malibu
+850825,,2015,18916,Rockwall, TX,Honda,Civic
+850826,,2011,93297,Purcell, OK,Lincoln,MKS4dr
+850827,,2013,46379,Martinsville, IN,Ram,2500Laramie
+850828,,2016,36092,Victorville, CA,Ford,FiestaSedan
+850829,,2016,6173,Elko, NV,Chevrolet,Silverado
+850830,,2011,78266,Milwaukee, WI,Dodge,Challenger2dr
+850831,,2015,16746,Arroyo Grande, CA,Ford,FiestaSedan
+850832,,2012,74782,Madison, NC,Chevrolet,SonicHatch
+850833,,2016,23120,West Allis, WI,Lincoln,MKXAWD
+850834,,2015,42301,Akron, OH,Honda,OdysseyEX
+850835,,2015,48577,Schaumburg, IL,Hyundai,SonataSE
+850836,,2016,39145,Salt Lake City, UT,Chevrolet,Malibu
+850837,,2014,34774,Brighton, MI,Chrysler,300300C
+850838,,2012,68174,SEYMOUR, IN,Toyota,RAV44WD
+850839,,2012,81265,North Grafton, MA,Jeep,Wrangler
+850840,,2016,41537,New Port Richey, FL,Dodge,DartSXT
+850841,,2008,81601,Roswell, NM,Toyota,Prius5dr
+850842,,2012,76085,Margate, FL,Mercedes-Benz,C-ClassC250
+850843,,2017,30477,Fort Worth, TX,Chevrolet,MalibuLT
+850844,,2012,63901,Westborough, MA,Volkswagen,Passat4dr
+850845,,2017,20442,Katy, TX,Toyota,CorollaLE
+850846,,2016,45829,Little Falls, NJ,Toyota,CorollaLE
+850847,,2014,44547,Norman, OK,BMW,4
+850848,,2014,56766,Nashville, TN,Ford,F-1504WD
+850849,,2016,45505,Scottsdale, AZ,Nissan,Altima2.5
+850850,,2017,3470,Glen Burnie, MD,Subaru,Crosstrek2.0i
+850851,,2016,33817,South Charleston, WV,Acura,RDXAWD
+850852,,2016,44972,San Diego, CA,Honda,Civic
+850853,,2013,72586,Siloam Springs, AR,GMC,Sierra
+850854,,2016,20760,Miami, FL,Kia,SportageFWD
+850855,,2012,61527,Garden Grove, CA,Toyota,Prius5dr
+850856,,2007,79154,Wahiawa, HI,Lexus,RX
+850857,,2016,33218,San Mateo, CA,Toyota,AvalonXLE
+850858,,2016,40544,Fremont, CA,Nissan,PathfinderSL
+850859,,2015,53006,Murray, KY,Chevrolet,Impala1LT
+850860,,2015,33888,Mount Prospect, IL,Mercedes-Benz,GL-ClassGL550
+850861,,2008,112053,Doraville, GA,Lexus,RX
+850862,,2017,19899,Knightdale, NC,Chevrolet,TraverseFWD
+850863,,2016,28516,Hollywood, FL,Nissan,RogueSV
+850864,,2016,21580,Nashua, NH,INFINITI,QX804WD
+850865,,2017,5017,Mechanicsburg, PA,BMW,X3xDrive35i
+850866,,2016,11055,Atlanta, GA,Ford,Transit
+850867,,2016,41759,Raleigh, NC,Nissan,RogueSV
+850868,,2015,37444,San Jose, CA,Toyota,PriusTwo
+850869,,2017,26115,San Mateo, CA,Chevrolet,MalibuLT
+850870,,2015,41667,Reno, NV,Chevrolet,Cruze2LT
+850871,,2014,51181,Homestead, FL,Ford,FusionSE
+850872,,2017,7796,Alexandria, VA,Audi,A62.0T
+850873,,2014,37893,Loganville, GA,Chevrolet,TraverseLS
+850874,,2015,21495,Kyle, TX,Ford,F-1504WD
+850875,,2015,82472,Greensboro, NC,Chevrolet,Suburban2WD
+850876,,2009,137590,Houston, TX,Lexus,IS
+850877,,2013,57509,Marysville, WA,Ford,F-150SuperCrew
+850878,,2014,51549,Louisville, KY,Toyota,Prius
+850879,,2008,97601,Fairfield, OH,Subaru,Forester4dr
+850880,,2011,87607,McMurray, PA,Honda,Accord
+850881,,2014,55667,Blackwood, NJ,Volkswagen,Jetta
+850882,,2004,123589,Lisle, IL,Volkswagen,Passat
+850883,,2008,76255,Ridgewood, NY,Mercedes-Benz,S-Class4dr
+850884,,2016,35991,High Point, NC,Ford,FusionSE
+850885,,2012,95195,Louisville, KY,Ford,Focus4dr
+850886,,2016,46737,Memphis, TN,Chevrolet,Suburban2WD
+850887,,2014,66878,Manassas, VA,Jeep,Wrangler
+850888,,2016,30109,New Braunfels, TX,Mazda,Mazda3i
+850889,,2016,38765,Fairfield, OH,Cadillac,SRXLuxury
+850890,,2008,114070,Allentown, PA,Toyota,Yaris4dr
+850891,,2016,21913,Jackson, MS,Kia,ForteManual
+850892,,2013,59050,Dothan, AL,Nissan,SentraSL
+850893,,2017,30875,Fairfield, OH,Jeep,CherokeeLimited
+850894,,2015,15587,Brooklyn, NY,Lexus,RX
+850895,,2011,94119,Woodbridge, VA,Audi,S44dr
+850896,,2015,53025,Orlando, FL,Toyota,"SiennaXLE,"
+850897,,2009,50029,Dallas, TX,Ford,EscapeFWD
+850898,,2017,4569,Beaverton, OR,GMC,AcadiaAWD
+850899,,2011,75228,Watertown, MA,Lexus,RX
+850900,,2016,12332,Joliet, IL,Mazda,Mazda3i
+850901,,2015,82505,Manassas, VA,Ford,FocusHatchback
+850902,,2014,46220,Denton, TX,Dodge,ChallengerSXT
+850903,,2008,47621,Phoenix, AZ,Dodge,Ram
+850904,,2004,49327,Norfolk, VA,Ford,F-1504WD
+850905,,2015,13057,Albany, NY,Chevrolet,EquinoxAWD
+850906,,2011,28420,Spring Branch, TX,BMW,7
+850907,,2014,50481,Albuquerque, NM,BMW,X1sDrive28i
+850908,,2012,81947,Hackensack, NJ,Ford,F-1504WD
+850909,,2017,3539,Rahway, NJ,Nissan,RogueSV
+850910,,2012,126807,Addison, IL,Nissan,Maxima4dr
+850911,,2016,34848,San Antonio, TX,Cadillac,XTSFWD
+850912,,2003,29980,Laguna Niguel, CA,Chevrolet,Corvette2dr
+850913,,2016,28651,Smithfield, NC,Jeep,Wrangler
+850914,,2016,16685,Lewisburg, PA,Ford,EscapeFWD
+850915,,2016,20335,San Benito, TX,Ram,"1500SLT,"
+850916,,2014,53153,Baton Rouge, LA,Audi,A42.0T
+850917,,2014,20561,Gaithersburg, MD,Mazda,CX-9Touring
+850918,,2012,112398,Fredericktown, MO,Mercedes-Benz,Sprinter
+850919,,2013,37217,Beresford, SD,GMC,TerrainAWD
+850920,,2016,52428,Las Vegas, NV,Chrysler,Town
+850921,,2017,7,San Rafael, CA,Nissan,SentraS
+850922,,2017,5795,Brooklyn, NY,Mercedes-Benz,E-ClassE
+850923,,2012,41193,Kennesaw, GA,BMW,5
+850924,,2015,46838,Tyler, TX,Jeep,Grand
+850925,,2016,10183,Lumberton, NC,Kia,SorentoLX
+850926,,2007,131004,Honolulu, HI,Chrysler,3004dr
+850927,,2012,97130,Blaine, MN,MINI,Cooper
+850928,,2013,15879,Sheboygan, WI,Hyundai,Sonata
+850929,,2013,94108,Avondale, AZ,Chrysler,Town
+850930,,2013,30589,Medford, OR,Honda,Accord
+850931,,2017,18534,Wichita Falls, TX,Volvo,V60
+850932,,2006,121615,San Diego, CA,Toyota,Corolla4dr
+850933,,2015,17589,Austin, TX,Nissan,RogueSV
+850934,,2008,71609,Fontana, CA,Chevrolet,Silverado
+850935,,2017,26577,Los Angeles, CA,Toyota,RAV4XLE
+850936,,2014,37297,Irving, TX,Mercedes-Benz,C-ClassC250
+850937,,2015,36560,Hickory, NC,Chevrolet,Silverado
+850938,,2015,36384,Colorado Springs, CO,Acura,RDXAWD
+850939,,2016,1715,Framingham, MA,Ford,Transit
+850940,,2012,91164,Lakeland, FL,Ford,ExplorerFWD
+850941,,2017,18130,Gadsden, AL,Nissan,FrontierCrew
+850942,,2014,51249,Bel Air, MD,Nissan,Maxima3.5
+850943,,2016,8364,Doral, FL,BMW,3
+850944,,2016,13234,Huntley, IL,Ford,TaurusLimited
+850945,,2007,69084,Venice, FL,Mercedes-Benz,CLK-Class2dr
+850946,,2016,17065,Springfield, NJ,BMW,3
+850947,,2016,45307,Wichita Falls, TX,Dodge,Grand
+850948,,2016,23887,Biloxi, MS,Dodge,JourneyFWD
+850949,,2017,21380,Bridgeton, MO,Ram,1500Big
+850950,,2013,43210,Morton Grove, IL,Nissan,AltimaSedan
+850951,,2012,47939,Fife, WA,Nissan,370Z2dr
+850952,,2013,40313,Highlands Ranch, CO,Subaru,Forester2.5X
+850953,,2011,59422,Scranton, PA,Toyota,RAV44WD
+850954,,2007,120767,Katy, TX,Chevrolet,Colorado4WD
+850955,,2015,26935,Coopersburg, PA,Chevrolet,Cruze1LT
+850956,,2015,31390,Rockville Centre, NY,Mercedes-Benz,M-ClassML350
+850957,,2008,100994,Miami, FL,Toyota,Yaris4dr
+850958,,2010,138824,Paterson, NJ,Honda,Accord
+850959,,2016,53205,Countryside, IL,Mazda,CX-5Touring
+850960,,2014,32076,Miami Gardens, FL,BMW,X5xDrive35d
+850961,,2016,18099,Tacoma, WA,Toyota,CorollaS
+850962,,2015,35145,Sterling, IL,Kia,ForteEX
+850963,,2008,94635,Ansonia, CT,GMC,Sierra
+850964,,2014,52843,Warner Robins, GA,GMC,Sierra
+850965,,2015,48590,Chicago, IL,Audi,Q3quattro
+850966,,2016,32125,Victorville, CA,Toyota,CamryLE
+850967,,2010,136860,Ottawa, IL,Pontiac,G64dr
+850968,,2006,117327,Ansonia, CT,Hyundai,Elantra4dr
+850969,,2016,44949,Montclair, CA,Ford,MustangConvertible
+850970,,2015,86616,Heber Springs, AR,Ram,35004WD
+850971,,2014,34509,Eden Prairie, MN,Audi,A63.0T
+850972,,2009,26117,Sanford, FL,Audi,R82dr
+850973,,2017,1893,Highlands Ranch, CO,Subaru,WRXSTI
+850974,,2013,95387,Oklahoma City, OK,Chevrolet,Silverado
+850975,,2015,15508,Englewood, CO,Toyota,4Runner4x4
+850976,,2007,125857,Manchester, NH,Toyota,Corolla4dr
+850977,,2014,23009,Clinton Township, MI,Cadillac,XTSLuxury
+850978,,2014,26746,Fort Smith, AR,Toyota,CamryLE
+850979,,2015,35196,Coral Springs, FL,Mercedes-Benz,E-ClassE400
+850980,,2014,19986,Bloomington, IN,Nissan,Altima2.5
+850981,,2015,19910,Elmhurst, IL,Hyundai,SonataSE
+850982,,2012,21607,Murray, KY,Ford,Mustang2dr
+850983,,2016,16571,Chantilly, VA,Toyota,CorollaLE
+850984,,2013,64518,Lafayette, IN,Lincoln,MKZFWD
+850985,,2014,60359,Scottsdale, AZ,Subaru,Forester2.5i
+850986,,2014,36417,Deland, FL,Kia,ForteEX
+850987,,2014,36386,Clarksville, MD,Buick,EncoreConvenience
+850988,,2011,113727,Stafford, VA,Nissan,Altima4dr
+850989,,2017,5358,Morristown, TN,Nissan,Titan
+850990,,2014,44926,Grapevine, TX,BMW,5
+850991,,2012,44839,Monmouth Junction, NJ,Chevrolet,CruzeSedan
+850992,,2005,146962,Milwaukee, WI,Mazda,Mazda35dr
+850993,,2013,98570,Lewisville, TX,Nissan,Altima4dr
+850994,,2016,8730,Honolulu, HI,GMC,CanyonCrew
+850995,,2013,33399,Sanford, FL,Hyundai,Elantra
+850996,,2015,54869,Greenville, TX,Chrysler,200Limited
+850997,,2011,88980,Grants Pass, OR,Kia,Soul5dr
+850998,,2005,201968,Wartburg, TN,Honda,Accord
+850999,,2016,41013,Lynnwood, WA,Ford,Expedition
+851000,,2017,27967,Fort Lauderdale, FL,Kia,Sportage2WD
+851001,,2017,5068,Athens, GA,BMW,3
+851002,,2015,33856,Beavercreek, OH,Mazda,Mazda6Grand
+851003,,2015,67157,Downey, CA,Dodge,Durango2WD
+851004,,2017,3911,Richmond, VA,Chevrolet,CamaroCoupe
+851005,,2017,4583,Bend, OR,Nissan,Titan
+851006,,2014,21532,Boise, ID,Ram,"1500Express,"
+851007,,2017,7200,Charlotte, NC,Chevrolet,Silverado
+851008,,2017,15039,Tracy, CA,Toyota,CamryXLE
+851009,,2016,25779,Frederick, MD,Ram,1500Big
+851010,,2014,26158,Mt. Juliet, TN,Honda,CR-VEX-L
+851011,,2015,72132,Slidell, LA,GMC,Sierra
+851012,,2013,68505,Rockville, Md,Volkswagen,PassatTDI
+851013,,2013,54298,Chicago, IL,Audi,Q52.0T
+851014,,2009,108532,Carey, OH,Mercury,Milan4dr
+851015,,2008,132965,Little Rock, AR,Toyota,HighlanderFWD
+851016,,2014,29400,Valencia, CA,BMW,5
+851017,,2016,12631,Lexington, SC,Honda,OdysseySE
+851018,,2013,102298,Orem, UT,Dodge,DartLimited
+851019,,2012,94115,Marietta, GA,Audi,A64dr
+851020,,2014,41108,Murrieta, CA,BMW,7
+851021,,2017,4369,Anderson, IN,Chevrolet,TraxFWD
+851022,,2012,76050,Burlington, NJ,Ford,Escape4WD
+851023,,2014,31659,Peoria, IL,Jeep,Wrangler
+851024,,2010,101438,Carmel, IN,Chevrolet,Silverado
+851025,,2007,62433,Hazelwood, MO,Honda,Civic
+851026,,2013,64723,York, PA,Chevrolet,Traverse2LT
+851027,,2013,77693,Kansas City, MO,FIAT,500Turbo
+851028,,2016,13159,Mobile, AL,Nissan,Altima2.5
+851029,,2014,36303,Myrtle Beach, SC,Ford,ExplorerXLT
+851030,,2013,47993,Lauderdale Lakes, FL,Toyota,CorollaL
+851031,,2017,5049,Pacific, MO,Jeep,CherokeeSport
+851032,,2017,33275,Union City, GA,Chevrolet,CruzeSedan
+851033,,2013,21681,Westbrook, ME,Chevrolet,Malibu1LT
+851034,,2009,110610,Worcester, MA,MINI,Cooper
+851035,,2015,52922,Weaverville, NC,Subaru,XV
+851036,,2015,35014,Union, NJ,Honda,Civic
+851037,,2015,18513,Delaware, OH,Chevrolet,Cruze1LT
+851038,,2013,79493,Fishers, IN,Honda,Accord
+851039,,2011,118578,Phoenix, AZ,Chevrolet,Suburban4WD
+851040,,2012,47878,Oklahoma City, OK,Lexus,IS
+851041,,2007,130005,Sacramento, CA,BMW,3
+851042,,2011,62834,Mt. Juliet, TN,Mercedes-Benz,E-Class2dr
+851043,,2015,29288,Stafford, VA,Nissan,RogueSV
+851044,,2015,38905,Muskogee, OK,Lincoln,MKCAWD
+851045,,2013,60254,Centerville, OH,Kia,SoulAutomatic
+851046,,2014,30386,Dover, DE,Jeep,CherokeeTrailhawk
+851047,,2016,33379,Portsmouth, NH,Ford,EdgeSEL
+851048,,2012,84040,Dallas, TX,Jeep,Grand
+851049,,2002,206159,Lynnwood, WA,Chevrolet,Avalanche1500
+851050,,2013,39006,Tucson, AZ,Honda,Civic
+851051,,2015,29704,Charlotte, NC,Volkswagen,Golf4-Door
+851052,,2015,60256,Danvers, MA,Honda,PilotEX-L
+851053,,2015,33960,Delray Beach, FL,Honda,Accord
+851054,,2010,53160,Tracy, CA,Mercury,Milan4dr
+851055,,2014,18881,Nampa, ID,Ford,EdgeSEL
+851056,,2007,145220,Jacksonville, FL,Toyota,Camry4dr
+851057,,2006,94201,Columbus, OH,Buick,Rendezvous4dr
+851058,,2006,83569,St. Petersburg, FL,Ford,Super
+851059,,2004,186400,Decatur, TX,Ford,Super
+851060,,2011,85667,Collinsville, IL,Dodge,Charger4dr
+851061,,2017,9911,Fargo, ND,Subaru,Legacy3.6R
+851062,,2016,15055,Mahwah, NJ,Cadillac,Escalade
+851063,,2014,31522,Wichita Falls, TX,Dodge,JourneyLimited
+851064,,2005,109399,Brentwood, CA,Ford,F-1504WD
+851065,,1997,145051,Castle Rock, CO,Mazda,B-Series
+851066,,2013,60930,Wellesley, MA,Volkswagen,TouaregV6
+851067,,2015,17739,Roanoke, VA,Hyundai,Elantra4dr
+851068,,2006,88170,Hasbrouck Heights, NJ,Jaguar,S-TYPE4dr
+851069,,2017,1023,Houston, TX,Ram,25004WD
+851070,,2011,124005,Mesa, AZ,Ford,F-1504WD
+851071,,2016,27024,Chicago, IL,Toyota,CamrySE
+851072,,2017,17296,Foley, AL,Ford,Escape4WD
+851073,,2015,21644,Doral, FL,Toyota,CorollaL
+851074,,2014,38578,West Palm Beach, FL,Cadillac,CTS
+851075,,2016,58617,Fairfield, OH,Kia,SorentoLX
+851076,,2013,50569,Wilkes-Barre, PA,Honda,CR-VEX
+851077,,2007,134206,Berlin, NJ,Honda,Accord
+851078,,2015,48543,Philadelphia, PA,Subaru,Forester2.0XT
+851079,,2014,39924,Abilene, TX,Chevrolet,Silverado
+851080,,2011,91438,Manchester, NH,Toyota,Highlander4WD
+851081,,2015,44947,Charleston, SC,Toyota,CorollaLE
+851082,,2017,16939,Alexandria, VA,Cadillac,XTSAWD
+851083,,2015,13960,Fond du Lac, WI,GMC,Sierra
+851084,,2005,81342,Phoenix, AZ,Buick,LaCrosse4dr
+851085,,2014,78639,San Diego, CA,Chevrolet,Silverado
+851086,,2013,66092,Naples, FL,Toyota,RAV44X2
+851087,,2014,41624,Windsor Locks, CT,Honda,CR-VLX
+851088,,2017,6548,Southern Pines, NC,Nissan,TitanCrew
+851089,,2007,68511,Salt Lake City, UT,Nissan,Sentra4dr
+851090,,2015,11999,SHREWSBURY, MA,Mercedes-Benz,S-ClassS550
+851091,,2017,46260,Houston, TX,Hyundai,Sonata2.4L
+851092,,2014,31990,San Jose, CA,Mercedes-Benz,E-ClassE350
+851093,,2016,38237,Little Rock, AR,Nissan,Altima2.5
+851094,,2014,30670,Miami, FL,Ford,ExplorerSport
+851095,,2007,75519,Liberty, NY,Dodge,Nitro4WD
+851096,,2017,34239,Boerne, TX,Audi,Q73.0T
+851097,,2012,23383,Englewood, CO,Hyundai,Genesis4dr
+851098,,2016,8458,Dublin, OH,Acura,MDXSH-AWD
+851099,,2010,103349,Mesa, AZ,Chrysler,Town
+851100,,2015,33916,South Gate, CA,Ford,ExplorerXLT
+851101,,2005,127175,San Antonio, TX,Dodge,Durango4dr
+851102,,2016,17057,Aurora, CO,Chevrolet,TraxAWD
+851103,,2015,21267,Wichita Falls, TX,Ford,F-1504WD
+851104,,2006,115201,Longmont, CO,BMW,5
+851105,,2017,14302,Houston, TX,Cadillac,XTSFWD
+851106,,2015,43849,Phoenix, AZ,Volkswagen,Beetle
+851107,,2017,20893,Waldorf, MD,Chevrolet,MalibuLT
+851108,,2010,78684,Haines CIty, FL,Toyota,Prius5dr
+851109,,2013,87813,Austin, TX,Cadillac,XTSLuxury
+851110,,2002,135829,Cedar Lake, IN,Buick,LeSabre4dr
+851111,,2015,10338,Naples, FL,Porsche,911GT3
+851112,,2008,132030,Portland, OR,Pontiac,G84dr
+851113,,2015,51252,Roseville, MN,Dodge,DartSXT
+851114,,2009,131213,Salisbury, MD,Toyota,Highlander
+851115,,2015,40283,Colorado Springs, CO,Jeep,CherokeeLatitude
+851116,,2011,113098,Lynnwood, WA,Honda,Insight5dr
+851117,,2016,4190,Indianapolis, IN,MINI,Cooper
+851118,,2016,7405,Tampa, FL,Nissan,SentraSL
+851119,,2015,32928,Plainfield, IN,Chevrolet,Traverse1LT
+851120,,2003,117950,Tacoma, WA,Subaru,Forester4dr
+851121,,2017,16535,DICKSON, TN,Nissan,TitanCrew
+851122,,2015,62451,Omaha, NE,Honda,OdysseyEX-L
+851123,,2010,146695,Terre Haute, IN,Dodge,Ram
+851124,,2014,37679,Cambridge, MA,Honda,Accord
+851125,,2013,62570,Fort Worth, TX,Honda,CR-VEX
+851126,,2013,65522,Gilroy, CA,Mazda,Mazda3MAZDASPEED3
+851127,,2014,33952,Freehold, NJ,Honda,Civic
+851128,,2012,94181,Colorado Springs, CO,Hyundai,Santa
+851129,,2015,47000,Plano, TX,Ford,EscapeFWD
+851130,,2014,15322,Lakewood, NJ,Ford,MustangCoupe
+851131,,2016,5946,Monroe, MI,Mazda,CX-5Grand
+851132,,2014,20154,Richmond, VA,MINI,Cooper
+851133,,2010,120904,Thousand Oaks, CA,Honda,CR-V4WD
+851134,,2014,36125,Hoover, AL,Mercedes-Benz,C-ClassC250
+851135,,2016,27754,Stafford, VA,Ram,ProMaster
+851136,,2017,31252,Escondido, CA,Hyundai,Elantra4dr
+851137,,2015,41982,Oxnard, CA,Mitsubishi,LancerES
+851138,,2016,2800,Columbus, OH,Nissan,RogueSV
+851139,,2016,28470,Philadelphia, PA,GMC,Sierra
+851140,,2017,25,Brockton, MA,Ram,1500Express
+851141,,2013,26676,Ashland, OR,Lexus,CT
+851142,,2013,80429,Grapevine, TX,Honda,Accord
+851143,,2014,27696,Mesa, AZ,Cadillac,SRXPremium
+851144,,2017,12191,Lithia Springs, GA,Dodge,DurangoGT
+851145,,2015,27196,Lilburn, GA,Toyota,"SiennaXLE,"
+851146,,2015,22205,Sebring, FL,Acura,TLXFWD
+851147,,2012,100336,Teterboro, NJ,Mercedes-Benz,S-ClassS550
+851148,,2017,10524,New London, CT,Toyota,RAV4LE
+851149,,2015,26535,Danville, IL,Ford,MustangFastback
+851150,,2016,42937,Raleigh, NC,Toyota,CorollaLE
+851151,,2017,17689,Cumming, GA,Nissan,MaximaSV
+851152,,2016,59625,Linden, NJ,Acura,MDXSH-AWD
+851153,,2013,81272,Charlotte, NC,Ford,EdgeLimited
+851154,,2005,229727,Arlington, TX,Toyota,Corolla4dr
+851155,,2015,33231,Bethlehem, PA,Chevrolet,Silverado
+851156,,2016,33411,Houston, TX,Nissan,Versa
+851157,,2008,88342,Collinsville, IL,Chevrolet,Silverado
+851158,,2010,68195,North Palm Beach, FL,Chevrolet,EquinoxFWD
+851159,,2007,81961,Alexandria, VA,Pontiac,G52dr
+851160,,2017,2600,Austin, TX,Porsche,PanameraTurbo
+851161,,2014,32663,Philadelphia, PA,Honda,Accord
+851162,,2014,33744,Nottingham, MD,INFINITI,QX60AWD
+851163,,2016,34162,Memphis, TN,Nissan,RogueS
+851164,,2011,53942,Santa Monica, CA,Mercedes-Benz,GL-Class4MATIC
+851165,,2008,128569,Parker, CO,Nissan,Xterra2WD
+851166,,2015,27520,Columbia, TN,Toyota,Prius
+851167,,2014,40137,Morrow, GA,Nissan,PathfinderS
+851168,,2013,68926,Stonewall, LA,Toyota,4Runner4x2
+851169,,2013,104980,San Rafael, CA,GMC,Sierra
+851170,,2017,5273,Naperville, IL,Acura,MDXSH-AWD
+851171,,2013,41240,Phoenix, AZ,INFINITI,G37
+851172,,2007,49055,Hattiesburg, MS,HUMMER,H24WD
+851173,,2012,24312,Hillsboro, OR,Ram,35004WD
+851174,,2015,17121,Avondale, AZ,Ram,"1500Laramie,"
+851175,,2010,52571,Indianapolis, IN,Land,Rover
+851176,,2017,18641,Leesburg, GA,Jeep,Grand
+851177,,2012,76707,Houston, TX,Ford,F-1502WD
+851178,,2015,56032,Salem, OR,Audi,A3Sedan
+851179,,2014,10029,Miami Gardens, FL,BMW,i3Hatchback
+851180,,2010,108074,Richmond, VA,Chrysler,3004dr
+851181,,2016,15640,Davis, CA,Nissan,PathfinderSV
+851182,,2014,47078,Union City, GA,Lexus,CT
+851183,,2016,30961,Mt. Juliet, TN,Lincoln,MKCFWD
+851184,,2009,119372,Fairfield, CA,Subaru,Impreza
+851185,,2016,23283,Hillsboro, OR,Jeep,Grand
+851186,,2016,41549,Yonkers, NY,Dodge,JourneyFWD
+851187,,2014,34578,Placentia, CA,Volkswagen,Jetta
+851188,,2011,110128,Northumberland, PA,Toyota,RAV44WD
+851189,,2014,45275,Hialeah, FL,BMW,5
+851190,,2015,22932,Tyler, TX,Ram,"1500SLT,"
+851191,,2015,22724,New Bern, NC,Honda,Civic
+851192,,2009,125285,Everett, WA,Chevrolet,Silverado
+851193,,2013,49495,Greensboro, NC,Lincoln,MKZFWD
+851194,,2013,99318,Gulfport, MS,Honda,PilotEX-L
+851195,,2016,43094,Oklahoma City, OK,Chevrolet,EquinoxFWD
+851196,,2015,24231,Columbus, OH,Ram,"1500Laramie,"
+851197,,2015,17734,Cincinnati, OH,Lexus,RX
+851198,,2015,22477,Savannah, TN,Chevrolet,Silverado
+851199,,2015,23484,Little Falls, NJ,Toyota,CorollaLE
+851200,,2015,2206,Pasadena, CA,Maserati,GranTurismo
+851201,,2014,29859,Livermore, CA,Toyota,Prius
+851202,,2017,13237,Grapevine, TX,Chevrolet,CamaroCoupe
+851203,,2013,49384,Gastonia, NC,Ford,MustangConvertible
+851204,,2016,11202,Saint Augustine, FL,Volkswagen,Jetta
+851205,,2015,31893,Mechanicville, NY,Toyota,RAV44X4
+851206,,2012,41368,Fremont, CA,Toyota,Camry4dr
+851207,,2015,86562,Gladstone, MO,Ram,"1500Laramie,"
+851208,,2011,102498,Cincinnati, OH,Honda,Pilot4WD
+851209,,2011,121385,Lilburn, GA,Ford,Escape4WD
+851210,,2006,217682,St Cloud, MN,Chevrolet,Silverado
+851211,,2013,53576,West Springfield, MA,Jeep,PatriotLatitude
+851212,,2012,64190,Suitland, MD,Chevrolet,TraverseFWD
+851213,,2014,33754,Niles, IL,Honda,CR-VLX
+851214,,2014,36946,Egg Harbor, NJ,BMW,4
+851215,,2015,17216,Richardson, TX,Nissan,LEAFS
+851216,,2015,50185,Pensacola, FL,Chevrolet,Malibu1LT
+851217,,2013,64500,Portland, OR,Mercedes-Benz,C-ClassC250
+851218,,2013,24679,West Palm Beach, FL,Scion,xD5dr
+851219,,2013,125688,La Habra, CA,Ford,ExplorerXLT
+851220,,2009,144579,Little Rock, AR,Toyota,Tundra
+851221,,2017,20861,Killeen, TX,Ford,MustangGT
+851222,,2015,22918,Chester, VA,Honda,Civic
+851223,,2014,20529,Libertyville, IL,Volkswagen,Jetta
+851224,,2017,7336,Jacksonville, FL,GMC,AcadiaFWD
+851225,,2016,44909,Charlottesville, VA,Toyota,CamrySE
+851226,,2009,85832,Knightdale, NC,INFINITI,G37
+851227,,2016,49451,Langhorne, PA,Mazda,Mazda6Touring
+851228,,2016,46954,Lynnwood, WA,Ford,FocusHatchback
+851229,,2015,72634,Republic, MO,Chevrolet,EquinoxFWD
+851230,,2013,72306,Murrysville, PA,Chrysler,Town
+851231,,2014,35914,Grand Island, NY,Chevrolet,Cruze1LT
+851232,,2007,62564,Saint Louis Park, MN,Lexus,GS
+851233,,2005,62729,Colton, CA,Dodge,Dakota2WD
+851234,,2013,28718,Fremont, NE,Cadillac,ATS3.6L
+851235,,2016,34270,Longmont, CO,Chevrolet,Express
+851236,,2010,61616,Fruitland Park, FL,Hyundai,Santa
+851237,,2014,40613,Somerset, PA,Ford,FocusHatchback
+851238,,2015,28957,Forest City, NC,Honda,Accord
+851239,,2014,21007,Blackwood, NJ,Maserati,QuattroporteS
+851240,,2012,92149,Cullman, AL,Chevrolet,Silverado
+851241,,2015,52626,Hooksett, NH,Jeep,CherokeeTrailhawk
+851242,,2015,20223,Doral, FL,BMW,7
+851243,,2015,58644,Fairfield, CA,Ford,EscapeFWD
+851244,,2014,86925,Tampa, FL,Nissan,PathfinderSV
+851245,,2015,26287,Aurora, MO,Chevrolet,Silverado
+851246,,2013,54108,South River, NJ,Chevrolet,Impala1LTZ
+851247,,2006,82779,Longmont, CO,Honda,Accord
+851248,,2015,89825,Indianapolis, IN,INFINITI,QX70V6
+851249,,2006,147151,North Plainfield, NJ,Nissan,Titan2WD
+851250,,2014,65310,Odessa, TX,GMC,Sierra
+851251,,2006,185878,Memphis, TN,Ford,Super
+851252,,2015,20690,Highland, IN,Chevrolet,Silverado
+851253,,2015,65939,Smithtown, NY,Mitsubishi,Outlander
+851254,,2014,43186,AUSTIN, TX,Toyota,4Runner4x2
+851255,,2012,26429,Ronan, MT,Ford,Fusion4dr
+851256,,2017,36981,Taylor, MI,Buick,VeranoSport
+851257,,2014,30178,Little Rock, AR,INFINITI,QX802WD
+851258,,2017,13572,TULSA, OK,Chevrolet,CruzeSedan
+851259,,2004,83936,Lynn, MA,GMC,Savana
+851260,,2006,148144,Brownsville, TX,Ford,F-1504WD
+851261,,2016,5446,Denton, TX,Mazda,CX-9FWD
+851262,,2014,37738,Leavenworth, KS,Ford,F-1504WD
+851263,,2017,5366,Scottsboro, AL,Ford,EscapeFWD
+851264,,2012,112135,Hawthorne, CA,Ford,Focus4dr
+851265,,2016,31934,Indianapolis, IN,Mercedes-Benz,G-ClassG550
+851266,,2016,39698,Bedford, TX,Nissan,MuranoFWD
+851267,,2015,61291,Lees Summit, MO,Hyundai,Sonata
+851268,,2016,16246,Bowling Green, KY,Chevrolet,CruzeLT
+851269,,2013,77427,Langhorne, PA,Dodge,DartLimited
+851270,,2016,44139,Morehead City, NC,Chrysler,Town
+851271,,2014,13472,Woonsocket, RI,GMC,AcadiaAWD
+851272,,2015,28793,Stafford, VA,Chrysler,300Limited
+851273,,2014,27389,Doral, FL,Hyundai,Elantra4dr
+851274,,2015,14007,Portland, OR,BMW,3
+851275,,2016,27309,Larchmont, NY,Toyota,CorollaLE
+851276,,2015,42326,Martinez, GA,Toyota,Tacoma2WD
+851277,,2017,18484,Oklahoma City, OK,Chevrolet,TahoeLT
+851278,,2014,69205,Highland Springs, VA,Ford,TaurusPolice
+851279,,2013,64403,Arlington, TX,Dodge,DurangoCitadel
+851280,,2015,43220,New Orleans, LA,Chrysler,200S
+851281,,2017,32588,Conyers, GA,Nissan,Altima2.5
+851282,,2014,49155,Buford, GA,Toyota,Camry2014.5
+851283,,2011,92835,Courtland, MN,Chevrolet,EquinoxFWD
+851284,,2013,38079,West Allis, WI,Toyota,"SiennaLE,"
+851285,,2013,34294,San Antonio, TX,Chevrolet,MalibuLS
+851286,,2016,120,Franklin, WI,Ram,"1500Tradesman,"
+851287,,2004,138763,Levittown, PA,Hyundai,Santa
+851288,,2014,26841,San Marcos, TX,Porsche,CaymanCoupe
+851289,,2014,49403,Marysville, WA,Kia,ForteLX
+851290,,2014,32254,Madison, WI,Toyota,RAV44X4
+851291,,2010,123295,Lewisville, TX,Ford,ExplorerRWD
+851292,,2015,22591,Gurnee, IL,Honda,Accord
+851293,,2016,15044,Austin, TX,Chevrolet,Suburban2WD
+851294,,2014,36120,Homestead, FL,Kia,SoulAutomatic
+851295,,2014,69290,Florence, KY,Toyota,"SiennaXLE,"
+851296,,2014,67225,Tukwila, WA,Ford,EscapeSE
+851297,,2005,99480,Crossville, TN,Jeep,Liberty4dr
+851298,,2016,40910,Derby, CT,Dodge,DartSXT
+851299,,2014,30859,Fairfax, VA,Nissan,Versa1.6
+851300,,2013,70391,Manor, TX,Chevrolet,Malibu2LT
+851301,,2012,87490,Lynn, MA,Porsche,CayenneAWD
+851302,,2011,77706,Hickory, NC,Jeep,Wrangler4WD
+851303,,2004,95298,Tampa, FL,Lexus,GX
+851304,,2006,116241,Houston, TX,BMW,3
+851305,,2017,34176,Tucson, AZ,Hyundai,Elantra4dr
+851306,,2016,30315,Antioch, IL,Chevrolet,SonicHatch
+851307,,2015,15638,Framingham, MA,Lexus,RX
+851308,,2015,51381,kansas city, KS,Ford,ExplorerXLT
+851309,,2015,37218,Fort Pierce, FL,Chevrolet,Suburban2WD
+851310,,2010,82979,Bel Air, MD,Dodge,Ram
+851311,,2010,118752,Dyersburg, TN,Chevrolet,Silverado
+851312,,2011,92031,Tampa, FL,Kia,Optima4dr
+851313,,2009,68507,Las Vegas, NV,Acura,TSX4dr
+851314,,2017,17209,Vero Beach, FL,Ford,MustangGT
+851315,,2011,74000,Mount Juliet, TN,Jeep,Wrangler
+851316,,2014,35939,Springfield, NJ,BMW,5
+851317,,2013,68617,Enterprise, AL,Ford,TaurusSEL
+851318,,2002,158995,San Leandro, CA,Toyota,Camry4dr
+851319,,2011,97802,Omaha, NE,Chevrolet,Silverado
+851320,,2006,274715,Canton, GA,Lincoln,Town
+851321,,2006,125069,Boise, ID,Chevrolet,Equinox4dr
+851322,,2000,181690,Swannanoa, NC,Jeep,Cherokee4dr
+851323,,2011,100122,Libertyville, IL,Land,Rover
+851324,,2015,15387,Tyler, TX,Ford,EdgeSEL
+851325,,2014,91447,Greensburg, PA,GMC,TerrainAWD
+851326,,2007,36661,Rockwall, TX,Porsche,Cayman2dr
+851327,,2015,13779,Huntington Beach, CA,Ford,Super
+851328,,2002,126000,Ottawa Lake, MI,Oldsmobile,Bravada4dr
+851329,,2016,24845,Sherwood, AR,Ford,F-1502WD
+851330,,2015,36382,Torrance, CA,Mazda,CX-9Grand
+851331,,2006,119482,Chesapeake, VA,Chevrolet,Cobalt2dr
+851332,,2009,39498,Blackwood, NJ,Lexus,ES
+851333,,2014,55272,Spring, TX,Ford,F-1502WD
+851334,,2016,12828,Ashland, VA,Ford,C-Max
+851335,,2012,121661,Brookings, SD,Chevrolet,Suburban
+851336,,2015,46034,Bentonville, AR,Subaru,Legacy2.5i
+851337,,2008,98916,Fredericksburg, VA,Ford,Ranger4WD
+851338,,2017,7168,Georgetown, TX,Mercedes-Benz,GLEGLE
+851339,,2011,66160,Shrewsbury, MA,Jeep,Patriot4WD
+851340,,2014,54622,Irving, TX,Toyota,"VenzaXLE,"
+851341,,2013,70117,Rochester, NY,Jeep,CompassSport
+851342,,2014,18467,Aurora, CO,Toyota,"VenzaLE,"
+851343,,2015,31028,Ontario, NY,Ford,F-1504WD
+851344,,2016,42759,Raleigh, NC,Chevrolet,MalibuLT
+851345,,2015,30980,Torrance, CA,Honda,Civic
+851346,,2014,30065,Tucson, AZ,Jeep,Wrangler
+851347,,2010,34728,Lindon, UT,Volvo,S804dr
+851348,,2007,144615,Madison, NC,GMC,Sierra
+851349,,2015,22782,Easton, PA,Toyota,Tacoma4WD
+851350,,2016,15266,Sugar Land, TX,Chevrolet,Tahoe4WD
+851351,,2016,21603,Glenview, IL,Hyundai,AccentSE
+851352,,2014,16822,Minnetonka, MN,BMW,3
+851353,,2015,70028,Dearborn, MI,Cadillac,XTSLuxury
+851354,,2014,67466,Marysville, WA,Audi,A42.0T
+851355,,2014,44706,Jamaica, NY,Nissan,Maxima3.5
+851356,,2016,15665,Blue Springs, MO,Jeep,Wrangler
+851357,,2014,29710,Wilmington, DE,Mercedes-Benz,GLK-ClassGLK350
+851358,,2016,32470,Chantilly, VA,Mitsubishi,LancerES
+851359,,2014,43196,Olive Branch, MS,Hyundai,SonataGLS
+851360,,2014,36102,Jacksonville, FL,Chevrolet,EquinoxFWD
+851361,,2015,20336,Las Vegas, NV,Dodge,JourneySXT
+851362,,2016,40509,New Port Richey, FL,Hyundai,ElantraSE
+851363,,2010,106727,Reno, NV,Honda,CR-V4WD
+851364,,2017,12293,Albany, NY,Chevrolet,TraverseAWD
+851365,,2013,43935,Downingtown, PA,Hyundai,Santa
+851366,,2011,49989,Olympia, WA,Ford,F-1504WD
+851367,,2014,62673,Fort Wayne, IN,Toyota,CorollaS
+851368,,2012,102626,Auburn, WA,INFINITI,QX564WD
+851369,,2014,33760,North Olmsted, OH,Hyundai,Santa
+851370,,2013,24694,Round Rock, TX,Honda,FitSport
+851371,,2015,21911,Denton, TX,Kia,OptimaLX
+851372,,2017,14027,Del City, OK,Nissan,Altima3.5
+851373,,2007,87891,Shelby Township, MI,Nissan,MuranoAWD
+851374,,2014,19006,Louisville, KY,BMW,2
+851375,,2012,64858,Pensacola, FL,Volkswagen,Golf
+851376,,2015,23542,Blair, NE,Dodge,DurangoAWD
+851377,,2017,5406,San Antonio, TX,Nissan,Altima2.5
+851378,,2017,4315,Marlow Heights, MD,BMW,3
+851379,,2014,29220,Rosell, IL,Chevrolet,Impala2LTZ
+851380,,2013,64145,Suffolk, VA,Mercedes-Benz,GLK-ClassGLK350
+851381,,2007,132364,Falls Chruch, VA,Jeep,Wrangler4WD
+851382,,2017,37152,New York, NY,Hyundai,Sonata2.4L
+851383,,2014,31500,Glen Allen, VA,Ford,F-1504WD
+851384,,2014,30382,HARVEY, LA,INFINITI,Q60
+851385,,2016,31776,Conroe, TX,Chevrolet,TraverseFWD
+851386,,2016,40943,Irving, TX,Jeep,CompassLatitude
+851387,,2014,24589,Georgetown, TX,Mazda,Mazda3i
+851388,,2015,89272,Smyrna, GA,Chevrolet,Malibu1LT
+851389,,2007,146311,Marrero, LA,Toyota,RAV42WD
+851390,,2015,14725,Marlow Heights, MD,BMW,4
+851391,,2011,98464,Dallas, TX,Dodge,Grand
+851392,,2013,32205,Inwood, NY,Nissan,AltimaSedan
+851393,,2014,30613,Springfield, NJ,Honda,CR-VEX
+851394,,2012,84160,Butte, MT,Cadillac,CTS
+851395,,2015,19740,Dallas, TX,Hyundai,Sonata2.4L
+851396,,2017,22924,Katy, TX,Chevrolet,TraverseFWD
+851397,,2017,13323,Carrollton, TX,GMC,Sierra
+851398,,2009,149773,Tulsa, OK,Buick,EnclaveFWD
+851399,,2013,54389,Layton, UT,Honda,Civic
+851400,,2016,18910,Montclair, CA,Jeep,Wrangler
+851401,,2017,6872,Americus, GA,Chevrolet,EquinoxFWD
+851402,,2013,6288,Madison, TN,Porsche,911Carrera
+851403,,2013,90766,Salem, OR,Ford,TaurusSEL
+851404,,2014,41596,Clarksville, IN,Volkswagen,Jetta
+851405,,2015,14221,Centennial, CO,GMC,CanyonCrew
+851406,,2017,19538,Selma, CA,Ram,1500SLT
+851407,,2016,39162,Milwaukie, OR,Ford,FiestaSedan
+851408,,2014,19992,Selma, TX,Chevrolet,Silverado
+851409,,2012,58439,Omaha, NE,Lexus,ES
+851410,,2008,92002,Indianapolis, IN,BMW,3
+851411,,2010,143506,Great Falls, MT,Subaru,Forester4dr
+851412,,2014,63699,Las Vegas, NV,Chevrolet,CamaroCoupe
+851413,,2017,27858,Tucson, AZ,Chevrolet,MalibuLT
+851414,,2016,29003,Pleasanton, CA,Mercedes-Benz,E-ClassE350
+851415,,2010,78400,Universal City, TX,Chevrolet,Camaro2dr
+851416,,2009,141900,Naugatuck, CT,Chevrolet,Suburban4WD
+851417,,2014,46178,Willimantic, CT,Mazda,Mazda3s
+851418,,2017,2877,Mooresville, NC,Chevrolet,MalibuLT
+851419,,2013,101000,Carrollton, TX,INFINITI,JX35JX35
+851420,,2009,71410,Mission Viejo, CA,Nissan,MuranoAWD
+851421,,2010,135829,Pensacola, FL,Mitsubishi,Galant4dr
+851422,,2016,40268,Westminster, MD,Chrysler,Town
+851423,,2015,31044,Missoula, MT,Chevrolet,CruzeLS
+851424,,2014,71203,Mt Pleasant, MI,GMC,Sierra
+851425,,2014,24998,Hillsboro, OR,Jeep,Grand
+851426,,2013,61618,Orlando, FL,Honda,PilotLX
+851427,,2013,79524,Merriam, KS,Chevrolet,Cruze1LT
+851428,,2014,21582,ROANOKE, VA,Honda,CR-VLX
+851429,,2017,11555,Costa Mesa, CA,Nissan,PathfinderSV
+851430,,2010,103913,Olive Branch, MS,Ford,Fusion4dr
+851431,,2013,53000,Little Rock, AR,Subaru,Forester2.5X
+851432,,2006,94284,Tucson, AZ,BMW,6
+851433,,2017,1487,Brooklyn Center, MN,Honda,Accord
+851434,,2011,151001,Minneapolis, MN,Chevrolet,TraverseFWD
+851435,,2006,155530,Greeley, CO,GMC,Sierra
+851436,,2015,31215,Cockeysville, MD,GMC,AcadiaAWD
+851437,,2013,84954,Snellville, GA,Toyota,"SiennaLimited,"
+851438,,2010,19248,St Cloud, MN,Chevrolet,Express
+851439,,2014,29085,Spokane, WA,Toyota,CorollaECO
+851440,,2013,63882,Cerritos, CA,Toyota,CamryXLE
+851441,,2015,52127,Franklin, TN,Jeep,Wrangler
+851442,,2007,66625,Hemet, CA,Lincoln,MKXFWD
+851443,,2013,53379,Yorkville, NY,Chevrolet,Silverado
+851444,,2017,1994,North Aurora, IL,Jeep,Wrangler
+851445,,2017,9921,Huntley, IL,Lincoln,MKZReserve
+851446,,2016,42221,Conyers, GA,Kia,OptimaLX
+851447,,2014,24426,Canton, MA,Acura,TSX5-Speed
+851448,,2017,5136,Miami, FL,INFINITI,QX80RWD
+851449,,2013,95318,Dallas, TX,Chevrolet,TahoeLT
+851450,,2010,98849,Brooklyn Center, MN,Honda,Civic
+851451,,2017,30454,Pelham, AL,Nissan,MaximaSV
+851452,,2015,49102,Poway, CA,Hyundai,Sonata2.4L
+851453,,2017,15869,Evanston, IL,GMC,AcadiaAWD
+851454,,2016,33076,Mountain View, CA,Nissan,SentraSV
+851455,,2011,86689,Saugus, MA,Nissan,MuranoAWD
+851456,,2014,30740,Colma, CA,Volkswagen,TiguanSE
+851457,,2008,114754,Concord, CA,Acura,TL4dr
+851458,,2010,92062,Corpus Christi, TX,Jeep,Wrangler
+851459,,2014,6857,Riverside, CA,Mercedes-Benz,B-ClassElectric
+851460,,2016,3987,Cincinnati, OH,Honda,Civic
+851461,,2011,109953,Mission Hills, CA,Toyota,Prius5dr
+851462,,2015,18954,Golden, CO,Volkswagen,Jetta
+851463,,2017,17391,San Antonio, TX,BMW,X1sDrive28i
+851464,,2015,15835,Goldsboro, NC,GMC,Sierra
+851465,,2012,33943,East Stroudsburg, PA,Ford,Econoline
+851466,,2016,10701,Puyallup, WA,Chevrolet,Silverado
+851467,,2017,23619,Fort Worth, TX,Chevrolet,MalibuLT
+851468,,2013,42160,Greenville, SC,Acura,RDXBase
+851469,,2017,24470,Nashville, TN,Chevrolet,MalibuLT
+851470,,2013,35000,Charlotte, NC,Lexus,LS
+851471,,2013,63689,Stonington, CT,BMW,X1xDrive28i
+851472,,2014,17121,Wappingers Falls, NY,Volkswagen,Jetta
+851473,,2016,34764,Arlington, TX,Ford,FocusSedan
+851474,,2013,80351,Georgetown, TX,Ford,TaurusLimited
+851475,,2015,34341,East Providence, RI,Nissan,Pathfinder4WD
+851476,,2017,13,Kennesaw, GA,Kia,Sportage2WD
+851477,,2012,66274,Northampton, MA,Honda,CR-VEX-L
+851478,,2011,100605,Burlington, MA,Honda,Odyssey5dr
+851479,,2014,55723,Fayetteville, TN,Toyota,CorollaLE
+851480,,2017,6747,Friendswood, TX,Cadillac,CTS
+851481,,2014,32799,Puyallup, WA,Dodge,ChargerRT
+851482,,2007,186126,Longmont, CO,Chevrolet,Tahoe4WD
+851483,,2009,69767,Richmond, VA,Acura,TL4dr
+851484,,2014,46432,Great Neck, NY,Mercedes-Benz,C-ClassC300
+851485,,2006,130667,Fredericksburg, VA,Nissan,Maxima4dr
+851486,,2015,36468,McDonough, GA,Honda,Civic
+851487,,2011,67409,Walnut Creek, CA,Land,Rover
+851488,,2008,152638,Troutman, NC,Honda,Civic
+851489,,2010,110804,Hattiesburg, MS,Toyota,4RunnerRWD
+851490,,2014,43719,Hazelwood, MO,Chevrolet,Traverse2LT
+851491,,2010,59631,Louisville, KY,Ford,F-1504WD
+851492,,2017,12870,Kingman, AZ,Chevrolet,CruzeSedan
+851493,,2015,35571,Westminster, CO,Nissan,RogueSV
+851494,,2015,39551,Cathedral City, CA,Ram,"1500Longhorn,"
+851495,,2007,58797,Pompano Beach, FL,Volkswagen,GTI2dr
+851496,,2014,34906,Medina, MN,Mercedes-Benz,GL-ClassGL450
+851497,,2010,118199,Bedford, OH,Nissan,Sentra4dr
+851498,,2015,38343,San Antonio, TX,Lexus,RX
+851499,,2014,20626,Homosassa, FL,Cadillac,XTSLuxury
+851500,,2017,24373,Fontana, CA,Ford,Super
+851501,,2014,46163,Marshfield, MO,Kia,RioSedan
+851502,,2016,8017,Prince George, VA,Ram,"1500Longhorn,"
+851503,,2013,47871,Monroe, LA,Hyundai,TucsonGLS
+851504,,2006,21859,Belle Plaine, MN,Chevrolet,Corvette2dr
+851505,,2015,23177,El Cerrito, CA,Nissan,Altima2.5
+851506,,2014,38055,McDonough, GA,Toyota,RAV44X2
+851507,,2008,66900,Stone Mountain, GA,Chevrolet,Silverado
+851508,,2017,2750,Roseville, CA,Honda,Civic
+851509,,2015,46490,Wallace, NC,Ford,Expedition
+851510,,2014,20393,Dublin, OH,Honda,Accord
+851511,,2017,10,Waite Park, MN,Ram,1500Express
+851512,,2017,22171,Grand Rapids, MI,Nissan,FrontierCrew
+851513,,2016,42026,Calumet, IL,Lincoln,MKXAWD
+851514,,2015,14632,Harrisonburg, VA,Nissan,Altima2.5
+851515,,2005,87438,Everett, WA,Chevrolet,Silverado
+851516,,2016,35987,Nashville, TN,Nissan,Altima2.5
+851517,,2016,21128,Jasper, GA,Chevrolet,Silverado
+851518,,2016,29110,Lexington, KY,Chevrolet,Silverado
+851519,,2003,29604,Neptune City, NJ,Ford,F-1502WD
+851520,,2014,40213,Lancaster, MA,Toyota,RAV44X4
+851521,,2016,6143,Missoula, MT,GMC,Sierra
+851522,,2008,113107,Belford, NJ,Jeep,Liberty4WD
+851523,,2017,1534,Ottumwa, IA,Mazda,MX-5
+851524,,2013,90704,National City, CA,Mazda,Mazda2Sport
+851525,,2016,32049,Kennesaw, GA,Nissan,MuranoFWD
+851526,,2012,55114,Greensboro, NC,Nissan,Sentra4dr
+851527,,2016,39886,Lancaster, CA,Nissan,VersaSV
+851528,,2012,79533,Columbus, OH,BMW,7
+851529,,2006,101389,Alexandria, VA,Lexus,RX
+851530,,2015,22568,Fargo, ND,Ram,"1500Laramie,"
+851531,,2017,47577,Hattiesburg, MS,Ford,FusionTitanium
+851532,,2016,1639,Concord, NC,Ram,25004WD
+851533,,2012,45796,Orlando, FL,Kia,SorentoAWD
+851534,,2015,35037,Boulder, CO,Jeep,Wrangler
+851535,,2016,43815,Portland, OR,Nissan,VersaS
+851536,,2014,74503,San Antonio, TX,Lexus,IS
+851537,,2011,54410,Orland Park, IL,Mercedes-Benz,M-Class4MATIC
+851538,,2008,74258,Spokane, WA,Pontiac,G64dr
+851539,,2006,141650,Englewood, CO,Acura,TLAutomatic
+851540,,2007,131704,Hollywood, FL,Chevrolet,Tahoe2WD
+851541,,2014,41969,Waco, TX,Nissan,Rogue
+851542,,2013,133148,Clayton, NC,Ford,FocusHatchback
+851543,,2013,27099,Honolulu, HI,Nissan,LEAFSV
+851544,,2014,48646,Westwood, MA,Mercedes-Benz,M-ClassML550
+851545,,2014,29405,Langhorne, PA,Toyota,Prius
+851546,,2010,86360,Sarasota, FL,Mercedes-Benz,E-Class4dr
+851547,,2014,58803,Colma, CA,Nissan,Altima2.5
+851548,,2014,59881,Middletown, CT,Toyota,HighlanderAWD
+851549,,2012,58582,Lexington, KY,Chevrolet,Silverado
+851550,,2013,36438,Bethlehem, PA,Hyundai,VelosterRE:MIX
+851551,,2015,58053,Graham, NC,Jeep,PatriotAltitude
+851552,,2016,26023,Chamblee, GA,Kia,SorentoSX
+851553,,2014,34012,Enfield, CT,Honda,Civic
+851554,,2011,106539,Stockbridge, GA,Honda,Accord
+851555,,2013,26771,Beaverton, OR,BMW,3
+851556,,2011,91118,Englewood, NJ,Volvo,XC60AWD
+851557,,2016,22627,Houston, TX,INFINITI,Q70LV6
+851558,,2014,60204,Bronx, NY,Ford,EscapeTitanium
+851559,,2015,13807,Galveston, TX,Chevrolet,Silverado
+851560,,2017,26293,Gautier, MS,Mitsubishi,OutlanderES
+851561,,2014,14613,Ft. Lauderdale, FL,Nissan,Altima2.5
+851562,,2007,86315,Jersey City, NJ,Chrysler,Aspen4WD
+851563,,2014,95412,Hattiesburg, MS,Chevrolet,Silverado
+851564,,2012,94940,Worcester, MA,Subaru,Outback2.5i
+851565,,2014,19998,West Springfield, MA,Volkswagen,Jetta
+851566,,2014,54495,San Jose, CA,BMW,X5sDrive35i
+851567,,2012,55489,Countryside, IL,Jeep,Liberty4WD
+851568,,2012,39419,Concord, NC,Jeep,Wrangler4WD
+851569,,2002,225204,Anaheim, CA,Toyota,Tacoma2WD
+851570,,2013,33281,Stafford, VA,Chevrolet,CruzeLS
+851571,,2015,34300,Scarsdale, NY,Chevrolet,Silverado
+851572,,2014,32955,Wappingers Falls, NY,Ford,EdgeSEL
+851573,,2015,29887,Portsmouth, NH,GMC,Sierra
+851574,,2006,116950,Ridgewood, NY,Ford,Five
+851575,,2009,125669,Phoenix, AZ,Mercedes-Benz,C-Class4dr
+851576,,2017,30939,San Diego, CA,Dodge,JourneySXT
+851577,,2014,37459,Orlando, FL,Audi,S4quattro
+851578,,2012,110277,Colorado Springs, CO,Jeep,Wrangler4WD
+851579,,2012,62356,Houston, TX,MINI,Cooper
+851580,,2015,18966,Pelham, AL,Volkswagen,Golf4-Door
+851581,,2006,164599,Savannah, GA,Jeep,Wrangler2dr
+851582,,2015,19123,Delray Beach, FL,Kia,Optima
+851583,,2014,28606,Warrenton, VA,Chevrolet,Silverado
+851584,,2011,114186,Grapevine, TX,Ford,Super
+851585,,2012,44653,Collinsville, IL,Jeep,Wrangler
+851586,,2011,69334,Aurora, CO,Honda,Accord
+851587,,2016,19662,Boerne, TX,Ford,EscapeFWD
+851588,,2011,97102,Fresno, CA,INFINITI,M374dr
+851589,,2009,110854,Riverside, CA,Mazda,CX-9FWD
+851590,,2013,50499,Atlanta, GA,Toyota,AvalonLimited
+851591,,2008,16481,Alpharetta, GA,Ferrari,4302dr
+851592,,2015,20460,New Athens, IL,Dodge,JourneyR/T
+851593,,2017,10182,Vista, CA,Ram,1500Big
+851594,,2017,17970,Layton, UT,Ford,EdgeTitanium
+851595,,2015,23194,Maumee, OH,Volkswagen,Passat4dr
+851596,,2015,27007,Roswell, GA,Lexus,RC
+851597,,2013,87112,Norcross, GA,Nissan,AltimaSedan
+851598,,2015,29931,Ft. Lauderdale, FL,BMW,3
+851599,,2008,114319,Vernon, CT,Toyota,Yaris4dr
+851600,,2016,42641,Wytheville, VA,Jeep,CompassLatitude
+851601,,2011,17019,SAN FRANCISCO, CA,Rolls-Royce,Ghost4dr
+851602,,2008,122736,Lakewood, CO,Chevrolet,Malibu4dr
+851603,,2003,231583,Addison, TX,GMC,Sierra
+851604,,2003,135222,Hooksett, NH,Ford,Explorer4dr
+851605,,2016,18573,Chesapeake, VA,Nissan,SentraSV
+851606,,2014,52206,Columbia, IL,Chevrolet,Silverado
+851607,,2012,93559,Frederick, MD,Chevrolet,CruzeSedan
+851608,,2008,30321,Turnwater, WA,Pontiac,Solstice2dr
+851609,,2014,28101,Stanton, CA,Mitsubishi,OutlanderES
+851610,,2011,49832,Westminster, MD,Toyota,Corolla4dr
+851611,,2016,34543,Lafayette, LA,Subaru,Outback3.6R
+851612,,2016,41578,Columbia, SC,Ford,FocusHatchback
+851613,,2005,70574,Charlotte, NC,Nissan,350Z2dr
+851614,,2006,116007,TACOMA, WA,Acura,TLAutomatic
+851615,,2016,30834,Elkhart, IN,Chrysler,Town
+851616,,2008,84649,Sacramento, CA,Nissan,350Z2dr
+851617,,2007,136712,Tucson, AZ,Toyota,Camry4dr
+851618,,2015,33627,Brentwood, CA,Honda,Civic
+851619,,2011,71106,Manahawkin, NJ,GMC,Sierra
+851620,,2010,39404,San Juan Capistrano, CA,Volkswagen,GTI4dr
+851621,,2016,20197,Olive Branch, MS,Hyundai,GenesisV6
+851622,,2017,20758,Liberty, NY,Cadillac,CTS
+851623,,2009,76073,Fullerton, CA,Volkswagen,Touareg
+851624,,2017,16241,Chantilly, VA,Toyota,CorollaLE
+851625,,2016,13047,Flagstaff, AZ,Ford,FusionSE
+851626,,2017,19002,Nanuet, NY,Nissan,PathfinderSL
+851627,,2016,45080,Nashua, NH,Volkswagen,Jetta
+851628,,2017,2454,Palm Coast, FL,Ford,MustangGT
+851629,,2016,43614,Bristol, CT,Dodge,Grand
+851630,,2017,9127,Brooklyn Park, MN,Ram,1500Big
+851631,,2013,94380,Milford, CT,Subaru,Legacy2.5i
+851632,,2017,16003,Merriam, KS,Chevrolet,CruzeSedan
+851633,,2015,4183,Houston, TX,Dodge,Durango2WD
+851634,,2015,29228,Brooklyn Park, MN,Nissan,MuranoAWD
+851635,,2014,24634,Myrtle Beach, SC,Ford,EscapeSE
+851636,,2017,1290,Lynnwood, WA,Chevrolet,CamaroConvertible
+851637,,2014,59552,Charlotte, NC,Chevrolet,SonicHatchback
+851638,,2014,66541,Covington, KY,Lexus,GS
+851639,,2013,42379,Chantilly, VA,Kia,Optima
+851640,,2014,18185,Needham Heights, MA,Ford,FocusSedan
+851641,,2016,34010,Brighton, MI,Buick,LaCrosseFWD
+851642,,2012,81273,Branford, CT,Honda,Accord
+851643,,2010,89960,San Diego, CA,Nissan,Frontier2WD
+851644,,2010,91966,Broken Arrow, OK,Ford,F-1502WD
+851645,,2013,72383,Garland, TX,Dodge,ChargerSE
+851646,,2014,41360,Thomaston, CT,Mazda,CX-9Touring
+851647,,2014,53518,Pembroke Pines, FL,Ram,"1500Laramie,"
+851648,,2013,72564,Urbandale, IA,Lincoln,Navigator4WD
+851649,,2007,100676,SAN FRANCISCO, CA,Chevrolet,Silverado
+851650,,2014,42891,Eden, NC,Ford,F-1504WD
+851651,,2017,26075,Tucson, AZ,Ford,Escape4WD
+851652,,2014,29084,Souderton, PA,Chevrolet,Cruze1LT
+851653,,2007,104600,Rogers, MN,Jeep,Grand
+851654,,2015,26586,Perkasie, PA,BMW,X1xDrive35i
+851655,,2014,58635,Downey, CA,Hyundai,Genesis
+851656,,2001,200489,Chesapeake, VA,Jeep,Wrangler2dr
+851657,,2007,104234,Lakewood, CO,Jeep,Commander2WD
+851658,,2015,42273,Long Island City, NY,Chevrolet,Tahoe4WD
+851659,,2014,58444,MONMOUTH JUNCTION, NJ,Lexus,RX
+851660,,2014,19990,Torrance, CA,Jeep,CherokeeSport
+851661,,2016,41245,Bessemer, AL,Nissan,Altima2.5
+851662,,2014,45628,Puyallup, WA,Kia,Optima
+851663,,2016,29758,Leesville, LA,Nissan,FrontierCrew
+851664,,2016,24624,Mount Juliet, TN,Mazda,CX-52016.5
+851665,,2007,90293,Cleveland, OH,Buick,LaCrosse4dr
+851666,,2016,9748,Lincoln, NE,BMW,3
+851667,,2015,47779,Dickson, TN,Dodge,Durango2WD
+851668,,2010,149022,Hamilton Square, NJ,Ford,Explorer4WD
+851669,,2017,16,Clive, IA,Lexus,RXRX
+851670,,2011,157294,Spokane Valley, WA,Ford,Ranger4WD
+851671,,2016,36589,Vacaville, CA,Kia,SedonaLX
+851672,,2015,39415,Lake Orion, MI,GMC,Yukon
+851673,,2017,28174,Providence, RI,Kia,ForteLX
+851674,,2016,33193,Sanford, FL,Kia,OptimaLX
+851675,,2015,47846,Westport, CT,Lexus,RX
+851676,,2010,69080,North Charleston, SC,BMW,5
+851677,,2016,19108,Pensacola, FL,Ford,MustangConvertible
+851678,,2017,23666,Watseka, IL,Dodge,Grand
+851679,,2016,33437,Geenville, SC,Hyundai,AccentSE
+851680,,2015,64614,Cathedral City, CA,Nissan,Versa1.6
+851681,,2017,15573,Houston, TX,Ford,MustangEcoBoost
+851682,,2016,8594,Manchester, NH,Subaru,BRZSeries.HyperBlue
+851683,,2016,18788,Owings Mills, MD,Audi,A3Sedan
+851684,,2006,156000,Sacramento, CA,HUMMER,H34dr
+851685,,2015,21553,Porterville, CA,Chevrolet,Silverado
+851686,,2007,139303,Conroe, TX,GMC,Yukon
+851687,,2010,92456,Fredericksburg, VA,BMW,6
+851688,,2009,190736,Alpharetta, GA,Dodge,Ram
+851689,,2012,44525,Staunton, VA,Dodge,Avenger4dr
+851690,,2015,28497,Littleton, CO,Nissan,MuranoAWD
+851691,,2016,32194,Millington, TN,Chevrolet,EquinoxFWD
+851692,,2010,99390,Downey, CA,Ford,Fusion4dr
+851693,,2016,17986,Winnsboro, LA,Honda,OdysseySE
+851694,,2012,75339,Gladstone, OR,Ford,Fiesta5dr
+851695,,2017,11905,Gulfport, MS,Dodge,ChallengerR/T
+851696,,2013,54527,Doral, FL,Toyota,Yaris3-Door
+851697,,2014,36794,San Francisco, CA,BMW,3
+851698,,2012,82800,San Juan Capistrano, CA,Nissan,Quest4dr
+851699,,2015,11699,Oconomowoc, WI,Jeep,CherokeeLatitude
+851700,,2017,19874,Houston, TX,Chevrolet,TahoePremier
+851701,,2015,39251,Liberty, MO,GMC,Sierra
+851702,,2014,35697,Torrance, CA,MINI,Cooper
+851703,,2015,33439,Bellevue, WA,Audi,SQ5quattro
+851704,,2012,74232,Raleigh, NC,Jeep,Liberty4WD
+851705,,2015,31105,CREVE COEUR, MO,Chevrolet,Tahoe4WD
+851706,,2017,15224,San Mateo, CA,Ford,EscapeFWD
+851707,,2015,46581,Norwalk, CA,BMW,5
+851708,,2014,18050,Hamilton, OH,Buick,VeranoLeather
+851709,,2011,89105,Dover, NH,Nissan,Frontier4WD
+851710,,2008,78578,Homewood, IL,Ford,Escape4WD
+851711,,2015,36317,Albuquerque, NM,Honda,Accord
+851712,,2006,146000,Pasadena, TX,Nissan,PathfinderSE
+851713,,2015,5807,Orlando, FL,MINI,Cooper
+851714,,2016,34259,Tifton, GA,Toyota,CamrySE
+851715,,2015,21103,Tallahassee, FL,Toyota,RAV44X2
+851716,,2016,45859,Marlow Heights, MD,Toyota,RAV4FWD
+851717,,2014,35325,Omaha, NE,Jeep,PatriotSport
+851718,,2014,19831,Fairfield, CA,Toyota,Yaris5-Door
+851719,,2015,28807,Worcester, MA,Mazda,CX-5Grand
+851720,,2011,81199,Hazle Township, PA,Hyundai,TucsonFWD
+851721,,2017,41560,West Covina, CA,Hyundai,Santa
+851722,,2016,34481,Fort Lauderdale, FL,Nissan,VersaSV
+851723,,2014,68043,Longs, SC,Chevrolet,Silverado
+851724,,2008,94074,McKinney, TX,Chevrolet,Cobalt4dr
+851725,,2017,17012,Valencia, CA,Hyundai,Santa
+851726,,2014,80695,El Paso, TX,Nissan,MuranoAWD
+851727,,2014,29373,Van Wert, OH,Ford,F-1504WD
+851728,,2016,33686,Muscle Shoals, AL,Ford,MustangConvertible
+851729,,2016,43530,Columbus, OH,Toyota,Tacoma4WD
+851730,,2006,79508,Alpharetta, GA,Jeep,Liberty4dr
+851731,,2016,14648,Colville, WA,Jeep,Wrangler
+851732,,2011,89321,Scottsdale, AZ,Cadillac,CTS
+851733,,2017,7302,Huntersville, NC,Chevrolet,SonicSedan
+851734,,2014,91581,Zionsville, IN,Ford,FusionSE
+851735,,2010,100823,San Antonio, TX,Chevrolet,EquinoxFWD
+851736,,2017,33665,SEYMOUR, IN,Chevrolet,Express
+851737,,2014,32247,West Palm Beach, FL,Honda,Civic
+851738,,2015,22970,Daytona Beach, FL,Nissan,Altima2.5
+851739,,2015,11799,Shrewsbury, NJ,Jeep,Grand
+851740,,2015,58730,Morrow, GA,Toyota,"SiennaLE,"
+851741,,2016,12952,Naperville, IL,BMW,4
+851742,,2016,24220,Tucson, AZ,Nissan,NV1500
+851743,,2016,25162,Des Moines, IA,Chevrolet,Silverado
+851744,,2009,178443,Franklin, TN,Saturn,Sky2dr
+851745,,2014,28215,Richmond, VA,BMW,5
+851746,,2001,112640,Kansas City, MO,Chrysler,PT
+851747,,2017,8152,Greensboro, NC,Land,Rover
+851748,,2014,24233,Golden, CO,Subaru,Outback2.5i
+851749,,2013,83667,Miamisburg, OH,Lexus,RX
+851750,,2015,23161,Bayside, NY,Toyota,SiennaXLE
+851751,,2016,38701,Seattle, WA,Toyota,CamryLE
+851752,,2015,28763,Orlando, FL,Subaru,Outback2.5i
+851753,,2016,24568,Houston, TX,Nissan,RogueSV
+851754,,2015,79221,Birmingham, AL,Toyota,Tundra
+851755,,2016,11580,Rochelle Park, NJ,INFINITI,Q50AWD
+851756,,2017,34707,Woburn, MA,Ford,Escape4WD
+851757,,2014,25237,Aiea, HI,Jaguar,F-TYPEF-Type
+851758,,2014,42440,Worthington, OH,Nissan,Altima2.5
+851759,,2017,14038,Farmington, NM,Nissan,Armada4WD
+851760,,2013,42600,Escondido, CA,Volkswagen,Passat4dr
+851761,,2014,27020,Texarkana, TX,Cadillac,ATS2.5L
+851762,,2013,125366,Santa Ana, CA,Volkswagen,Jetta
+851763,,2014,68750,Bonham, TX,Ram,1500Laramie
+851764,,2012,67494,Gardner, MA,Ram,55004WD
+851765,,2014,13083,Lancaster, OH,Kia,SoulAutomatic
+851766,,2014,34119,Aurora, CO,Ford,EscapeSE
+851767,,2005,120100,Tampa, FL,Hyundai,Accent3dr
+851768,,2008,169259,Orangburg, SC,Chevrolet,Silverado
+851769,,2017,38100,Saint Paul, MN,Hyundai,Santa
+851770,,2014,23719,Naperville, IL,Volkswagen,Jetta
+851771,,2016,16477,Chesapeake, VA,Mazda,Mazda6Touring
+851772,,2016,36836,Chino, CA,Buick,EnclaveLeather
+851773,,2017,17376,Plantation, FL,Dodge,JourneySXT
+851774,,2016,17843,Chicago, IL,Mazda,MX5
+851775,,2016,44475,Valdosta, GA,Hyundai,Sonata2.4L
+851776,,2014,40065,Columbia, SC,Kia,ForteEX
+851777,,2011,73615,Sacramento, CA,Hyundai,Sonata4dr
+851778,,2008,78996,Avon, IN,Toyota,Corolla4dr
+851779,,2015,21858,Rochelle Park, NJ,Acura,TLXFWD
+851780,,2015,44155,Chicago, IL,Toyota,CamrySE
+851781,,2016,34675,Pocatello, ID,Ford,FocusHatchback
+851782,,2011,147364,Sunland, CA,Ram,25002WD
+851783,,2014,41153,Clovis, NM,Hyundai,Elantra4dr
+851784,,2015,39918,Valencia, CA,Audi,Q52.0T
+851785,,2015,37127,Leesburg, GA,Scion,tCAutomatic
+851786,,2005,126312,Brooklyn Park, MN,Lexus,RX
+851787,,2016,29300,Phoenix, AZ,Toyota,Tacoma2WD
+851788,,2013,44476,Chantilly, VA,Volkswagen,Golf2.5L
+851789,,2017,20450,Victorville, CA,Chevrolet,MalibuLT
+851790,,2016,36946,San Jose, CA,Toyota,4Runner4WD
+851791,,2009,64249,Manassas, VA,Toyota,Camry4dr
+851792,,2016,40171,Pottsville, PA,Jeep,CompassLatitude
+851793,,2011,66054,Perrysburg, OH,Kia,Sorento2WD
+851794,,2016,21883,Carrollton, TX,INFINITI,Q50RWD
+851795,,2008,153318,Orlando, FL,Chevrolet,Tahoe2WD
+851796,,2016,22241,Lansing, IL,Hyundai,AzeraSedan
+851797,,2015,39395,Warrenton, MO,Volkswagen,Passat1.8T
+851798,,2015,56238,Omaha, NE,Hyundai,AccentGLS
+851799,,2016,49565,Mobile, AL,Ford,FusionSE
+851800,,2013,44583,Albuquerque, NM,Hyundai,Sonata4dr
+851801,,2009,131235,Jacksonville, FL,Cadillac,Escalade2WD
+851802,,2015,28707,North Richland Hills, TX,Toyota,CorollaLE
+851803,,2012,73888,St Louis, MO,Ford,EscapeFWD
+851804,,2014,40439,West Allis, WI,Lincoln,MKZFWD
+851805,,1999,150614,Shoreline, WA,Suzuki,Grand
+851806,,2016,13239,Avondale, AZ,Volkswagen,Jetta
+851807,,2007,123700,Cranston, RI,Ford,Super
+851808,,2001,279654,Springdale, AR,Dodge,CaravanSE
+851809,,2014,35009,Loma Linda, CA,Honda,Accord
+851810,,2014,33578,Houston, TX,Chevrolet,Silverado
+851811,,2014,30000,Waseca, MN,Ford,FocusHatchback
+851812,,2015,20075,Alexandria, VA,Land,Rover
+851813,,2014,22931,Orlando, FL,Lincoln,MKZFWD
+851814,,2015,95476,Orangburg, SC,Chevrolet,Impala2LT
+851815,,2012,61832,Indiana, PA,Jeep,Liberty4WD
+851816,,2014,36350,Allentown, PA,Jeep,Wrangler
+851817,,2017,18431,Macon, GA,INFINITI,QX60FWD
+851818,,2017,17600,Germantown, MD,Nissan,QuestSV
+851819,,2016,4856,Miami, FL,GMC,Sierra
+851820,,2012,43422,Laurel, MD,Dodge,Avenger4dr
+851821,,2015,30395,Delano, CA,Chevrolet,Suburban2WD
+851822,,2010,115500,Roseville, CA,Mercedes-Benz,M-Class4MATIC
+851823,,2002,170000,Cascade, ID,Dodge,StratusSE
+851824,,2014,20163,Broomfield, CO,MINI,Cooper
+851825,,2016,15750,HOUSTON, TX,Mercedes-Benz,GLEGLE350
+851826,,2011,61281,Lake Orion, MI,Chrysler,Town
+851827,,2016,40346,Inver Grove Heights, MN,Ford,FocusHatchback
+851828,,2015,28584,Wichita, KS,Ford,Escape4WD
+851829,,2015,30059,Lindon, UT,Honda,PilotEX-L
+851830,,2015,23163,Woodside, NY,Hyundai,TucsonFWD
+851831,,2009,81179,Rockville, MD,Volvo,V504dr
+851832,,2002,136798,Pensacola, FL,Jeep,Wrangler2dr
+851833,,2015,49000,Lexington, KY,Volkswagen,PassatTDI
+851834,,2015,15591,Charlotte, NC,Chevrolet,MalibuLS
+851835,,2016,43830,Annapolis, MD,Ford,FiestaHatchback
+851836,,2014,9873,Melbourne, FL,BMW,Z4sDrive28i
+851837,,2011,76501,O'Fallon, IL,Kia,Sportage2WD
+851838,,2016,41837,Louisville, KY,GMC,Yukon4WD
+851839,,2014,35007,Raleigh, NC,BMW,3
+851840,,2014,52281,Fishers, IN,MINI,Cooper
+851841,,2012,61004,Sierra Vista, AZ,Chrysler,2004dr
+851842,,2013,38199,Kingston, NY,Chevrolet,Malibu1LT
+851843,,2007,142377,Fredericksburg, VA,GMC,Yukon4WD
+851844,,2012,123104,Greensboro, NC,Hyundai,Sonata4dr
+851845,,2011,97797,Albuquerque, NM,Mazda,CX-9AWD
+851846,,2015,7953,Houston, TX,Lexus,RX
+851847,,2014,45141,Baltimore, MD,Lincoln,MKZFWD
+851848,,2013,87488,Seattle, WA,Ford,F-150SuperCab
+851849,,2017,412,Fairfax, VA,Volvo,V60T5
+851850,,2016,19755,Louisville, KY,Chevrolet,Cruze
+851851,,2015,34956,Chicago, IL,Ford,EscapeFWD
+851852,,2014,35852,Towanda, PA,Chevrolet,Silverado
+851853,,2011,139205,Pasadena, TX,Chevrolet,Impala4dr
+851854,,2003,131814,Tyler, TX,Nissan,Altima4dr
+851855,,2012,80196,Wheaton, MD,Dodge,DurangoAWD
+851856,,2014,19063,Jefferson City, MO,Honda,Accord
+851857,,2010,45088,Leesburg, FL,Subaru,Forester4dr
+851858,,2013,43463,Springfield, MO,Dodge,DartLimited
+851859,,2014,27923,Torrington, CT,Honda,CR-VEX
+851860,,2013,50104,Davie, FL,Lincoln,MKXMKX
+851861,,2012,56464,Alexandria, VA,Acura,TLSH-AWD
+851862,,2014,50693,Concord, NC,Dodge,ChargerSE
+851863,,2017,2869,Missoula, MT,Jeep,Wrangler
+851864,,2014,23303,Brooklyn Park, MN,Toyota,CorollaLE
+851865,,2008,181003,Cary, NC,Dodge,Grand
+851866,,2016,57229,Lincoln, NE,Chevrolet,Silverado
+851867,,2016,43737,Kenner, LA,Jeep,CompassLatitude
+851868,,2017,9135,Torrance, CA,BMW,4
+851869,,2015,39339,Seattle, WA,Volkswagen,Jetta
+851870,,2017,9212,Moab, UT,Ram,3500Laramie
+851871,,2011,102647,Urbana, IL,Chevrolet,Camaro2dr
+851872,,2014,48572,Pelham, AL,BMW,3
+851873,,2014,34087,Oak Park, IL,Mazda,Mazda6Sport
+851874,,2013,70155,Flagstaff, AZ,Toyota,Tundra
+851875,,2008,112773,Union City, GA,Honda,Odyssey4dr
+851876,,2011,74053,Lakewood, WA,Ford,F-150AWD
+851877,,2014,38172,Orlando, FL,Ford,F-1502WD
+851878,,2014,31935,Roswell, GA,Honda,Accord
+851879,,2015,46752,Harrisburg, PA,Toyota,RAV44X4
+851880,,2011,55555,Albany, GA,Jeep,CompassFWD
+851881,,2017,17787,Harrison, OH,Ford,F-150XLT
+851882,,2008,141346,Nashville, TN,Honda,Accord
+851883,,2016,42179,Waldoboro, ME,Chevrolet,Silverado
+851884,,2017,5024,Huntsville, AL,INFINITI,QX50RWD
+851885,,2015,19389,New Port Richey, FL,Hyundai,TucsonFWD
+851886,,2015,30242,Cincinnati, OH,Acura,TLXFWD
+851887,,2010,100555,St. Louis, MO,Toyota,Camry4dr
+851888,,2017,4396,Pembroke Pines, FL,BMW,X3sDrive28i
+851889,,2017,20370,Framingham, MA,Kia,SedonaLX
+851890,,2009,78502,Sacramento, CA,BMW,M34dr
+851891,,2017,35635,Waldorf, MD,Ford,Explorer4WD
+851892,,2014,61777,Shelbyville, KY,GMC,YukonAWD
+851893,,2005,202761,Fort Collins, CO,Toyota,RAV44dr
+851894,,2013,51806,Gilbert, AZ,Jeep,Wrangler
+851895,,2017,32077,Houston, TX,Chevrolet,MalibuLT
+851896,,2011,117046,Duluth, GA,Nissan,Xterra4WD
+851897,,2014,32960,Dawsonville, GA,Chevrolet,Silverado
+851898,,2009,45200,Columbus, GA,Mercedes-Benz,CLK-Class2dr
+851899,,2013,25577,Huntsville, AL,INFINITI,G37
+851900,,2015,23950,Springfield, PA,Honda,Civic
+851901,,2015,36772,North Charleston, SC,Toyota,CorollaS
+851902,,2014,87998,Carrollton, TX,GMC,Sierra
+851903,,2014,28031,Kissimmee, FL,Nissan,Altima2.5
+851904,,2014,9897,Canton, MA,Toyota,RAV44X4
+851905,,2012,107442,Fairfield, OH,Chevrolet,Malibu2LZ
+851906,,2015,107468,Conroe, TX,Chevrolet,Silverado
+851907,,2013,33575,Bronx, NY,Ford,FiestaHatchback
+851908,,2016,15293,Kennesaw, GA,Kia,SoulAutomatic
+851909,,2015,27342,Mesa, AZ,Nissan,RogueSV
+851910,,2014,17134,Cambridge, MA,Honda,Civic
+851911,,2007,116372,Bladensburg, MD,Nissan,MuranoAWD
+851912,,2014,20738,Niceville, FL,Nissan,SentraSR
+851913,,2005,96525,El Paso, TX,GMC,Sierra
+851914,,2009,121675,Muncie, IN,GMC,Sierra
+851915,,2014,32993,WEST CHESTER, OH,Mercedes-Benz,M-ClassML350
+851916,,2011,61500,Gainesville, FL,Ford,Fusion4dr
+851917,,2010,75012,Boxborough, MA,Mercedes-Benz,M-Class4MATIC
+851918,,2012,60260,Oskaloosa, IA,Chevrolet,ImpalaLT
+851919,,2014,27166,Norwood, MA,Ford,FusionSE
+851920,,2009,74745,Hayward, CA,MINI,Cooper
+851921,,2015,49474,Morrow, GA,Jeep,PatriotLatitude
+851922,,2014,94572,Reno, NV,Toyota,"SiennaLE,"
+851923,,2017,6375,Irvine, CA,BMW,2
+851924,,2012,150156,South Amboy, NJ,Ford,Super
+851925,,2015,17618,North Haven, CT,Volvo,S602015.5
+851926,,2015,42457,Saco, ME,Ford,FusionHybrid
+851927,,2014,45374,Ft. Lauderdale, FL,Cadillac,CTS
+851928,,2014,44215,Avondale, AZ,Ram,"1500Tradesman,"
+851929,,2015,15470,Tampa, FL,Lexus,NX
+851930,,2015,26862,Woodlands, TX,BMW,i3Hatchback
+851931,,2016,23227,San Juan, TX,Toyota,Tacoma2WD
+851932,,2015,5755,Jacksonville, FL,Nissan,Altima2.5
+851933,,2016,36354,Jacksonville, FL,Ford,Super
+851934,,2008,90985,Aurora, CO,Toyota,Sienna5dr
+851935,,2006,187964,Pleasanton, CA,Nissan,Altima4dr
+851936,,2008,116270,Kingwood, TX,Nissan,Maxima4dr
+851937,,2005,72522,Olathe, KS,Ford,Mustang2dr
+851938,,2014,33396,Fairfield, CT,Land,Rover
+851939,,2004,157703,Virginia Beach, VA,Pontiac,Vibe4dr
+851940,,2016,40698,Ewing, NJ,Dodge,Grand
+851941,,2013,55219,Oregon City, OR,Subaru,Impreza
+851942,,2017,5461,Stockton, CA,GMC,Sierra
+851943,,2013,25627,Honolulu, HI,smart,fortwopure
+851944,,2014,31247,Miami, FL,Honda,OdysseyEX
+851945,,2014,30241,Brooklyn Center, MN,Chevrolet,Cruze1LT
+851946,,2014,28276,Dallas, TX,Honda,Accord
+851947,,2016,23567,Lakeville, MN,Chevrolet,MalibuLT
+851948,,2012,139444,Bonham, TX,Ram,15002WD
+851949,,2014,60162,SPRINGFIELD, TN,GMC,Sierra
+851950,,2014,22576,Cerritos, CA,Toyota,PriusThree
+851951,,2014,37389,Louisville, KY,Chevrolet,CamaroCoupe
+851952,,2017,1099,TOMS RIVER, NJ,Nissan,Altima2.5
+851953,,2017,12983,Bristol, TN,Chrysler,300Limited
+851954,,2013,65256,West Covina, CA,Ford,TaurusSE
+851955,,2016,7902,ROCHESTER, NY,GMC,TerrainAWD
+851956,,2015,3957,Green Brook Township, NJ,Chevrolet,CorvetteCoupe
+851957,,2015,33808,South Jordan, UT,GMC,Sierra
+851958,,2014,71000,Smyrna, DE,Kia,SorentoLX
+851959,,2015,23442,Tukwila, WA,Acura,MDXAWD
+851960,,2014,85139,Boardman, OH,Subaru,XV
+851961,,2015,19263,San Antonio, TX,Lexus,ES
+851962,,2014,38593,Marietta, GA,Mercedes-Benz,Sprinter
+851963,,2015,91948,Cullman, AL,GMC,Yukon2WD
+851964,,2014,68131,Spencerport, NY,Chrysler,Town
+851965,,2016,6278,Las Vegas, NV,GMC,CanyonCrew
+851966,,2016,36379,Anaheim, CA,Ford,Expedition2WD
+851967,,2015,60095,Stone Mountain, GA,Kia,OptimaLX
+851968,,2015,9568,Westminster, MD,Jeep,WranglerSport
+851969,,2015,33857,Fruitland Park, FL,GMC,TerrainFWD
+851970,,2012,72595,Westborough, MA,Volkswagen,Passat2.5
+851971,,2013,5351,Richmond, VA,Aston,Martin
+851972,,2015,40008,Clermont, FL,Nissan,SentraSR
+851973,,2011,64739,Merriam, KS,Nissan,RogueAWD
+851974,,2014,34436,Seattle, WA,Scion,tCAutomatic
+851975,,2017,5806,SEATTLE, WA,Honda,Civic
+851976,,2008,85781,Smithfield, NC,Nissan,RogueAWD
+851977,,2009,115240,Richardson, TX,Acura,MDXAWD
+851978,,2009,127224,San Diego, CA,Nissan,Murano2WD
+851979,,2015,27875,Tampa, Fl,Chevrolet,Silverado
+851980,,2011,77294,Baltimore, MD,Jeep,Wrangler
+851981,,2013,46986,Thomaston, CT,Mazda,Mazda3s
+851982,,2017,12662,Green Cove Springs, FL,Kia,SedonaLX
+851983,,2014,94133,Arden, NC,Chevrolet,Silverado
+851984,,2014,74257,Hinesville, GA,Ford,MustangCoupe
+851985,,2017,12660,Mission Hills, CA,Dodge,ChargerR/T
+851986,,2009,68337,Cincinnati, OH,Mazda,MAZDA54dr
+851987,,2015,36733,Cullman, AL,Nissan,Altima2.5
+851988,,2015,33061,Burnsville, MN,Kia,OptimaSX
+851989,,2013,17004,Charleston, SC,Hyundai,TucsonLimited
+851990,,2015,62006,Glen Burnie, MD,Kia,SorentoLX
+851991,,2015,22938,Bayshore, NY,Chevrolet,Malibu2LT
+851992,,2017,21792,Colorado Springs, CO,Chevrolet,TahoePremier
+851993,,2015,29949,Las Vegas, NV,Nissan,Murano2WD
+851994,,2012,53358,Fuquay Varina, NC,Mercedes-Benz,C-ClassC250
+851995,,2015,17809,Torrance, CA,Ford,ExplorerLimited
+851996,,2007,78457,Everett, WA,Toyota,Camry4dr
+851997,,2015,23028,Medina, MN,Lexus,RX
+851998,,2012,49442,Fishers, IN,Nissan,JUKE5dr
+851999,,2007,98844,Columbus, OH,Acura,MDX4WD
+852000,,2012,49901,San Antonio, TX,GMC,CanyonCrew
+852001,,2015,31153,Brook Park, OH,Lexus,RX
+852002,,2015,21140,Columbus, OH,Nissan,Pathfinder4WD
+852003,,2015,65238,Ft. Worth, TX,Ford,Super
+852004,,2017,907,KEYPORT, NJ,Nissan,Altima2.5
+852005,,2012,46129,Oklahoma City, OK,Chrysler,3004dr
+852006,,2011,68963,Orange Park, FL,Lincoln,MKZ4dr
+852007,,2013,62020,Gastonia, NC,Honda,CR-VEX-L
+852008,,2014,21176,Tuscaloosa, AL,Nissan,Altima2.5
+852009,,2015,76719,Santa Ana, CA,Subaru,Outback2.5i
+852010,,2015,34556,Grapevine, TX,Nissan,Altima2.5
+852011,,2014,54399,Charlotte, NC,Nissan,Maxima3.5
+852012,,2014,31905,Orlando, FL,Chevrolet,CruzeLS
+852013,,2010,74355,Anchorage, AK,Cadillac,SRXAWD
+852014,,2014,49257,Chicopee, MA,Ram,"1500Express,"
+852015,,2014,50455,West Palm Beach, FL,Buick,VeranoVerano
+852016,,2006,180901,Colorado Springs, CO,Chevrolet,Silverado
+852017,,2017,7461,Mount Laurel, NJ,BMW,3
+852018,,2014,8038,Boerne, TX,Toyota,CamryL
+852019,,2015,45028,Noblesville, IN,Chrysler,200C
+852020,,2015,53744,Summerville, SC,Ford,F-1504WD
+852021,,2014,41043,Barrington, IL,INFINITI,Q50AWD
+852022,,2015,21978,Fond du Lac, WI,INFINITI,QX60AWD
+852023,,2014,39300,Harrisburg, NC,Ram,"1500Express,"
+852024,,2003,141208,Mission, TX,Ford,Explorer
+852025,,2014,26732,Verona, NJ,BMW,3
+852026,,2013,31156,San Antonio, TX,Nissan,AltimaSedan
+852027,,2015,42452,Loveland, CO,Ford,F-1504WD
+852028,,2014,31831,Lafayette, IN,Kia,SorentoLX
+852029,,2014,98707,Temple, TX,Dodge,Grand
+852030,,2013,46001,Bowling Green, KY,Nissan,SentraSV
+852031,,2012,55642,Elba, AL,Ford,Mustang2dr
+852032,,2006,122997,Bangor, WI,Ford,Focus4dr
+852033,,2014,37912,Gilbert, AZ,Hyundai,TucsonSE
+852034,,2011,99146,Englewood, CO,Toyota,4Runner4WD
+852035,,2016,38799,Tucson, AZ,Mitsubishi,LancerES
+852036,,2013,29808,Cerritos, CA,BMW,3
+852037,,2015,52791,Manassas, VA,Jeep,CherokeeLimited
+852038,,2009,48890,Cincinnati, OH,Buick,Lucerne4dr
+852039,,2014,62933,Cary, NC,Nissan,Rogue
+852040,,2016,38113,Round Rock, TX,Jeep,CompassLatitude
+852041,,2014,33372,Warren, MI,BMW,4
+852042,,2017,7524,Houston, TX,Mazda,CX-5Grand
+852043,,2014,34695,Gower, MO,Ford,EscapeSE
+852044,,2011,99691,Salisbury, NC,Nissan,Altima4dr
+852045,,2017,25390,Bedford, TX,Dodge,JourneySXT
+852046,,2016,6426,Brattleboro, VT,GMC,Sierra
+852047,,2009,88912,Tacoma, WA,GMC,Sierra
+852048,,2016,41660,Lakewood, WA,Dodge,ChargerRT
+852049,,2015,15986,Duncan, OK,Lincoln,MKCAWD
+852050,,2017,20974,Vero Beach, FL,Hyundai,Elantra
+852051,,2013,55746,East Brunswick, NJ,Honda,Accord
+852052,,2016,42571,LaGrange, GA,Chevrolet,Suburban4WD
+852053,,2015,34904,Pembroke Pines, FL,Mercedes-Benz,E-ClassE350
+852054,,2007,173294,Marietta, GA,Chevrolet,Tahoe2WD
+852055,,2014,29865,Sarasota, FL,Honda,Accord
+852056,,2014,49665,Grand Forks, ND,Chevrolet,Silverado
+852057,,2015,64164,Humble, TX,Cadillac,Escalade
+852058,,2014,46219,Bloomfield, NJ,Mercedes-Benz,CLA-ClassCLA250
+852059,,2015,35415,Northumberland, PA,Ford,FusionSE
+852060,,2014,70265,Ardmore, PA,Nissan,SentraS
+852061,,2014,35454,Hackettstown, NJ,Kia,SorentoSX
+852062,,2010,125218,Hayward, CA,BMW,5
+852063,,2016,10597,Hayward, CA,Toyota,CamrySE
+852064,,2015,13947,Bayshore, NY,Lincoln,MKCAWD
+852065,,2004,179426,Chesterton, IN,Nissan,Maxima4dr
+852066,,2013,49818,Savannah, TN,Jeep,Wrangler
+852067,,2015,25112,Lawndale, CA,Dodge,ChallengerSXT
+852068,,2017,20884,Richardson, TX,Chevrolet,CruzeSedan
+852069,,2017,17574,Seattle, WA,Dodge,Grand
+852070,,2016,45221,Wichita Falls, TX,Hyundai,VelosterAutomatic
+852071,,2013,49756,Ivel, KY,Dodge,ChargerSRT8
+852072,,2009,65845,Raleigh, NC,Dodge,JourneyAWD
+852073,,2016,8995,Pensacola, FL,Mazda,Mazda6Grand
+852074,,2011,73939,Centennial, CO,Mitsubishi,Outlander
+852075,,2016,6606,Jacksonville, FL,Toyota,CorollaS
+852076,,2017,8128,Lexington, KY,Ford,Escape4WD
+852077,,2014,48827,Hasbrouck Heights, NJ,BMW,X5xDrive35i
+852078,,2010,98481,Missouri Valley, IA,Honda,CR-V4WD
+852079,,2011,48089,Plano, TX,Lincoln,MKT4dr
+852080,,2015,17054,Hummels Wharf, PA,Kia,SportageLX
+852081,,2014,14472,Antioch, TN,Dodge,ChallengerSXT
+852082,,2008,95295,Boise, ID,Ford,Super
+852083,,2017,31362,Cincinnati, OH,Hyundai,SonataSE
+852084,,2015,38526,Elk Grove, CA,Nissan,Altima2.5
+852085,,2009,115000,Sacramento, CA,Chevrolet,Impala4dr
+852086,,2016,34857,Medford, OR,Toyota,CorollaS
+852087,,2007,104715,Red Bank, NJ,Toyota,Avalon4dr
+852088,,2010,132613,North Hollywood, CA,Mercedes-Benz,GLK-Class4MATIC
+852089,,2013,52743,Huntington Beach, CA,Ford,F-150SuperCrew
+852090,,2016,37967,West Covina, CA,Nissan,Versa
+852091,,2015,70660,Austin, TX,Ford,EdgeSE
+852092,,2016,10942,Chicago, IL,Lincoln,MKS3.7L
+852093,,2014,43879,Louisville, KY,BMW,3
+852094,,2017,11342,Peoria, AZ,Toyota,CamrySE
+852095,,2015,29596,Savannah, GA,BMW,3
+852096,,2017,39758,Saint Joseph, MO,Chevrolet,TraverseAWD
+852097,,2013,39598,Englewood, CO,Nissan,Maxima3.5
+852098,,2013,47193,Tulsa, OK,BMW,X3xDrive28i
+852099,,2015,11890,Missouri Valley, IA,Chevrolet,Silverado
+852100,,2014,57563,Northumberland, PA,Subaru,Forester2.5i
+852101,,2013,63717,Houston, TX,Honda,PilotEX-L
+852102,,2011,66866,Hubbard, OR,Hyundai,Sonata4dr
+852103,,2016,3315,Bend, OR,Nissan,FrontierCrew
+852104,,2017,3012,Golden, CO,GMC,Sierra
+852105,,2015,41668,Houston, TX,Nissan,Altima2.5
+852106,,2017,9377,Auburn, WA,Volvo,S60
+852107,,2013,68071,Nicholasville, KY,Toyota,CorollaLE
+852108,,2013,26096,Miami, FL,Volkswagen,Jetta
+852109,,2016,31721,Fargo, ND,Nissan,JUKESL
+852110,,2010,23599,Brooklyn, NY,Honda,Accord
+852111,,2016,32345,Apex, NC,Toyota,CamryXSE
+852112,,2017,18262,Bristol, TN,Ford,F-150Lariat
+852113,,2016,9868,Sherwood, AR,Kia,Soul+
+852114,,2014,13794,Titusville, FL,Ford,FocusSedan
+852115,,2014,49022,Tyler, TX,BMW,7
+852116,,2013,36578,Elmhurst, NY,Honda,PilotLX
+852117,,2013,50259,Bethany, OK,Nissan,AltimaSedan
+852118,,2014,34528,Seffner, FL,Honda,CR-VLX
+852119,,2015,33697,Southfield, MI,GMC,Yukon4WD
+852120,,2015,16532,Columbus, MS,Lincoln,MKS3.7L
+852121,,2015,30131,Lawrenceville, GA,Chevrolet,Malibu1LT
+852122,,2013,63903,Federal Way, WA,Subaru,Impreza
